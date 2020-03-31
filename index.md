@@ -1,4 +1,4 @@
-# Welcome Qiskitters
+# Welcome Qiskitters!
 
 ## Overview
 
