@@ -27,22 +27,22 @@ Maybe the most important workshop to hold is a qiskit 101 tutorial. We [know ins
  
 Our [Coding with Qiskit YouTube series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY), and our [open source qiskit textbook](https://qiskit.org/textbook/about.html) are both popular resources that people have used to help get people up to speed or familiar with Qiskit and Quantum. There are even live Q&As that are hosted by Quantum teams, that can be great opportunities for virtual viewing parties!
 
-__**Reading Groups**__
+**Reading Groups**
 Some Qiskitters get together over Slack or WebEx and host reading groups of different quantum research papers or chapters in the online qiskit textbook. 
 
-__**Collaborate on a Project**__
+**Collaborate on a Project**
 Tools like GitHub make it a cinch for teams spread out to collaborate on a project together. Many members of the Qiskit Advocate group have utilized this approach to add contributions to the qiskit repo, or to add other valuable insights to the community at large.
 
-__**Speaking or Presentations**__
+**Speaking or Presentations**
 Perhaps the simplest of the virtual options, live streaming is probably the most accessible and usable way you can create an event online. With various free streaming platforms (YouTube Live, Twitch, Mixer), you can host a live presentation or speaker to a viewing audience online. If you want to create a more interactive presenting experience, where the participants can contribute beyond live-chat, you can explore presentation options such as Webex, Zoom, or other video chat options. 
 
-__**Meetups**__
+**Meetups**
 The word “meetup” implies meeting up - but it doesn’t imply that you cannot do it in a virtual space. Connecting via webcams has become more accessible than ever, and you and your group can meet to catch up, have a viewing party, happy hours, and more! Even something as small as a project collaboration, to something as large as a launch celebration, virtual hangouts can be exciting and even keep you connected with long-distance colleagues.  
 
-__**Hackathons**__
+**Hackathons**
 Hackathons can come in many forms, in many places, and the virtual space is no exception. Whether it’s an ongoing challenge, a problem-focused collaboration, or a live competition - hackathons can be hosted virtually through many different spaces. For in depth hackathon guidelines both inside and outside of the virtual space, you can download it HERE. 
 
-__**Meet in in a Game**__
+**Meet in in a Game**
 Between the portability of the Nintendo Switch, the huge boom of games available on PC, and every other console available, meeting up inside a game world is now much more reality than the days of Tron. Some qiskitters met up in Animal Crossing recently, and even created some in-game swag items. We recommend Minecraft, Animal Crossing, or anywhere else you can show off your creativity and build the community (and friendships!)
 
 INSERT PHOTOS
