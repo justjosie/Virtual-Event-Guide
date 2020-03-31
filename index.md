@@ -85,6 +85,7 @@ As always, if you are interested in hosting any type of virtual event, don’t h
 
 [Download Qiskit Community Photos Here.](https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Qiskit%20Community%20Photos.zip)
 
+[Download the Virtual Event Powerpoint Template Here.](https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Digital%20Events%20PowerPoint%20Template.pptx)
 
 ## Online Resources
 ### Other ways to connect with the community!
