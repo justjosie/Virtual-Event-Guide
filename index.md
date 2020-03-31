@@ -81,7 +81,8 @@ As always, if you are interested in hosting any type of virtual event, don’t h
 - Downloadable: Qiskit Logos
 - Downloadable: Promo Photos
 
-## Online Resources - other ways to connect with the community
+## Online Resources
+### Other ways to connect with the community!
 - Youtube Videos
 - Blog Posts
 - Video Recap
