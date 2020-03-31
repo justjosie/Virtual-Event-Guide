@@ -1,8 +1,7 @@
-## Overview
-
-### Welcome Qiskitters
+# Welcome Qiskitters
 
 ## Overview
+
 This guide provides relevant resources and guidance as you plan a qiskit hackathon at your university. We have included IBM-specific ideas and guidance to help fill out your event and make it as successful as possible.
  
 The term “your event” is used on purpose. Although IBM is more than happy to sponsor or support, at the end of the day this event is owned by you and your group of collaborators. We are here to help and support you along the way. As a qiskit-themed event, there are a few rules that we’d like to see put into place. If your group is on board, we’ll send swag, prizes, and even IBM Researchers as mentors and guest judges.
@@ -13,13 +12,13 @@ A second helpful principle – **clearly state the roles** between your team of 
  
 Let’s go team!
 
-### Intro to Virtual Event Opportunities  (Josie)
+## Intro to Virtual Event Opportunities  (Josie)
 - What are virtual events? 
 - What virtual events can you do? 
 - Speaking, Presentations, Hackathons, Meetups, Project Collaboration
 - For in depth hackathon guidelines - outside of the virtual space, you can download it HERE
 
-## Virtual Event Planning 101
+### Virtual Event Planning 101
 - What are key differences between a virtual vs in-person (Josie)
 - Regardless of event style, you want to have a checklist of items in place (Josie)
 - Sample Event Schedule
@@ -29,25 +28,24 @@ Let’s go team!
 - Sample Code of Conduct 
 - Event planning checklist 
 
-## Virtual Tools (Josie)
+### Virtual Tools (Josie)
 - Face-to-Face Communications (Webex, other ones we looked at)
 - Chat (Slack, Discord) 
 - Presentations (Webex, Zoom)
 - Hackathon Collaboration (HackerEarth)
 
-## Communications
+### Communications
 - The need for communications becomes even more important with a virtual event (Josie)
 - What does a communications Plan look like? (Josie)
 - Sample content: Tweets, Emails, Description, Website(Josie)
 
-
-### Branding Guidelines
+# Branding Guidelines
 - High-level brand guidelines (Josie)
 - Downloadable: PowerPoint Template (Brian)
 - Downloadable: Qiskit Logos (Brian)
 - Downloadable: Promo Photos (Brian)
 
-### Online Resources - other ways to connect with the community (Brian) 
+# Online Resources - other ways to connect with the community (Brian) 
 - Youtube Videos
 - Blog Posts
 - Video Recap
@@ -55,6 +53,6 @@ Let’s go team!
 - Slack Channel
 - Email Us!
 
-### Hackathon Resources (Brian)
+# Hackathon Resources (Brian)
 - Sample projects
 - Suggested Pre-Work
