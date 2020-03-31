@@ -75,13 +75,13 @@ As always, if you are interested in hosting any type of virtual event, don’t h
 - What does a communications Plan look like?
 - Sample content: Tweets, Emails, Description, Website
 
-# Branding Guidelines
+## Branding Guidelines
 - High-level brand guidelines
 - Downloadable: PowerPoint Template
 - Downloadable: Qiskit Logos
 - Downloadable: Promo Photos
 
-# Online Resources - other ways to connect with the community
+## Online Resources - other ways to connect with the community
 - Youtube Videos
 - Blog Posts
 - Video Recap
@@ -89,6 +89,6 @@ As always, if you are interested in hosting any type of virtual event, don’t h
 - Slack Channel
 - Email Us!
 
-# Hackathon Resources
+## Hackathon Resources
 - Sample projects
 - Suggested Pre-Work
