@@ -83,7 +83,7 @@ As always, if you are interested in hosting any type of virtual event, don’t h
 
 [Download the Qiskit Logos Assets Here.](https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Qiskit%20Logos.zip) 
 
-[Download Qiskit Photo Here.](https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Vermont%202.jpg)
+[Download Qiskit Community Photos Here.](https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Qiskit%20Community%20Photos.zip)
 
 
 ## Online Resources
