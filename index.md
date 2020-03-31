@@ -12,7 +12,7 @@ A second helpful principle – **clearly state the roles** between your team of 
  
 Let’s go team!
 
-## Intro to Virtual Event Opportunities  (Josie)
+## Intro to Virtual Event Opportunities 
 There are a lot of opportunities to create, host, or participate in virtual events. Virtual events remove the physical-interaction from the activity, which can make them unique experiences with a slightly different approach to planning. With virtual events on the rise, we wanted to offer our resources and guide for how you may be able to optimize your own virtual event! 
 
 ### What are virtual events? 
@@ -64,24 +64,24 @@ As always, if you are interested in hosting any type of virtual event, don’t h
 - Sample Code of Conduct 
 - Event planning checklist 
 
-### Virtual Tools (Josie)
+### Virtual Tools
 - Face-to-Face Communications (Webex, other ones we looked at)
 - Chat (Slack, Discord) 
 - Presentations (Webex, Zoom)
 - Hackathon Collaboration (HackerEarth)
 
 ### Communications
-- The need for communications becomes even more important with a virtual event (Josie)
-- What does a communications Plan look like? (Josie)
-- Sample content: Tweets, Emails, Description, Website(Josie)
+- The need for communications becomes even more important with a virtual event
+- What does a communications Plan look like?
+- Sample content: Tweets, Emails, Description, Website
 
 # Branding Guidelines
-- High-level brand guidelines (Josie)
-- Downloadable: PowerPoint Template (Brian)
-- Downloadable: Qiskit Logos (Brian)
-- Downloadable: Promo Photos (Brian)
+- High-level brand guidelines
+- Downloadable: PowerPoint Template
+- Downloadable: Qiskit Logos
+- Downloadable: Promo Photos
 
-# Online Resources - other ways to connect with the community (Brian) 
+# Online Resources - other ways to connect with the community
 - Youtube Videos
 - Blog Posts
 - Video Recap
@@ -89,6 +89,6 @@ As always, if you are interested in hosting any type of virtual event, don’t h
 - Slack Channel
 - Email Us!
 
-# Hackathon Resources (Brian)
+# Hackathon Resources
 - Sample projects
 - Suggested Pre-Work
