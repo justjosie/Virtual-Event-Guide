@@ -76,14 +76,45 @@ No, this isn’t another Animal Crossing reference. You can organize a group to 
 Exploring a new concept comes with many different steps or focus areas. Setting up a digital scavenger hunt is an engaging way to look at a large collection of items. You can assign different aspects with unique point values, and ask for pictures or confirmation of sorts. There are a few websites and apps that have been created specifically to host online scavenger hunts.
 
 
-## We're Here for You!
+### We're Here for You!
 As always, if you are interested in hosting any type of virtual event, don’t hesitate to reach out to the Community Team! We’re here to help you create exciting and enjoyable experiences, so make sure and email us at xxxxxx!
 
 
+## Section 2: Virtual Event Planning 101
 
+Regardless of the event you are planning (virtual or in person), you will still have the fairly standard checklist of items you will want to have in place in order to ensure its success. However, in a virtual space it becomes more critical that those items are (a) **planned** in advance, (b) **communicated** clearly and directly to all participants in the event prior to the event start, and (c) are **tracked and documented** in a central location for shared visibility across team member pre-, during, and post-event.
+ 
+The key difference you will want to keep in mind between a virtual and live event is location, location, location! When you’re on-site at an event? It’s usually pretty simple to know where everyone is, and to make sure any announcements over the PA are being heard by everyone. In a virtual space, this is more difficult (but not impossible!) to achieve, and additional steps or effort will need to be implemented to make sure you are not only reaching participants, but engaging with them as well. Reading text-updates throughout a day is all well and good, but for presentations, collaborations, breakouts, roundtables, etc… you can see how this virtual “movement” is a little harder to organize and keep your eyes on, but is still very achievable. 
 
+There are many great tools and platforms available to help bridge that planning gap between live event planning and virtual event planning for you and your team, and the Qiskit Community Team has also done some research and at the end of this section you will find our recommendations for the tools we have looked into that will likely be a great fit to help support your entire event!
 
+![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Crowdcast%20virtual%20event%20collaboration%20with%20phone%20tablet%20laptop%20on%20desk.jpg?raw=true)
 
+As always, virtual or not, the Qiskit Community Team is also available as a resource in creating, planning, and executing an event – so don’t hesitate to email if you have any general or more specific questions!
+ 
+Regardless of how you are managing the event, you will want to make sure and have the following predefined and finalized PRIOR to any public-facing communications (and most certainly prior to the event start date):
+
+### Clearly Identified Team Roles
+* Each component within an event should have a clear lead, and all team members should be aware of “Who To” go to for any contributions or questions
+* Examples of team roles: Moderator, Emcee, Coach, Mentor, Catering, Room set up, Clean up
+* While some team roles may be supported by multiple people – the general best practice is to make sure and designate a clear lead individual for each area
+
+### Event Schedule/Agenda
+* Make sure and clearly identify daily start and end times (and don’t forget to include the time zone!)
+* If there are multiple platforms or resources being used, make sure the agenda reflects when you may be alternating from one to the other – everyone should know where they need to be and at what the time
+* If there are any event-specific benchmarks throughout the event, make sure they are clearly communicated in your agenda for all participants and team-members
+
+### Registration
+_(Optional for less formal events or open-ended invitations)_
+
+### Code of Conduct 
+_(encouraged for any/all events)_
+Here’s [IBM Quantum’s Code of Conduct](https://drive.google.com/open?id=15mnpIQ9n4m3FUCSjpuH_PbnG7HltHQV8) that you can use for your event.
+
+### Communication/Promotion Plan
+* Promotion and communications are critical when it comes to making sure people are aware your event is going on, and how they may be able to connect with it or join. Make sure you give yourself several weeks for pre-event promotion!
+* Identify what channels you are using (Examples: Slack, Twitter, Bulletin Board, Forum Announcement) to do your promotions and outreach
+* Identify the dates or general time frames when you would like to announce the event, if/when any pre-work will be recommended or required for participation, or any important updates or engagements you may have with participants (and observers from home) leading up to the event.
 
 
 
