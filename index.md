@@ -61,6 +61,40 @@ Hackathons can come in many forms, in many places, and the virtual space is no e
 
 ### Passive Event Examples
 
+#### Collaborate on a Project
+
+Tools like GitHub make it a cinch for teams spread out to collaborate on a project together. Many members of the Qiskit Advocate group have utilized this approach to add contributions to the qiskit repo, or to add other valuable insights to the community at large.
+
+#### Bug Hunting
+
+No, this isn’t another Animal Crossing reference. You can organize a group to look at a specific codebase or section of a project and go hunting for bugs within it. Using Github is especially useful to do this. Some organizers set up prizes for whoever finds and fixes as the most bugs within a certain time frame.
+
+![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Quantum%20programmed%20game%20device.jpg?raw=true)
+
+#### Scavenger Hunt
+
+Exploring a new concept comes with many different steps or focus areas. Setting up a digital scavenger hunt is an engaging way to look at a large collection of items. You can assign different aspects with unique point values, and ask for pictures or confirmation of sorts. There are a few websites and apps that have been created specifically to host online scavenger hunts.
+
+
+## We're Here for You!
+As always, if you are interested in hosting any type of virtual event, don’t hesitate to reach out to the Community Team! We’re here to help you create exciting and enjoyable experiences, so make sure and email us at xxxxxx!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### What are some virtual event options? 
