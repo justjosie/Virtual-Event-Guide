@@ -1,6 +1,12 @@
-# Welcome Qiskitters!
+# Hello Qiskitters!
 
-## Overview
+This is the **Qiskit Virtual Event Planning Guide**. This guide is meant as a companion for anyone looking to host a digital event, including resources, templates, and ideas. With that said, most things you’ll find here are **suggestions**. At the end of the day, you know your audience better than we do. We’re here to help you make it as successful as possible, whatever you chose to do. 
+ 
+If you only have a few minutes to read this document, skip to the TL;DR section at the end.
+
+![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true)
+
+## Section 1: Overview
 
 This guide provides relevant resources and guidance as you plan a qiskit hackathon at your university. We have included IBM-specific ideas and guidance to help fill out your event and make it as successful as possible.
  
