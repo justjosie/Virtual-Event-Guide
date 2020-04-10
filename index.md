@@ -9,6 +9,28 @@ Testing to find out how to use HTML in here
       </head>
     </html>
 
+<div markdown="1">
+<em> Testing italics </em>
+</div>
+
+<div markdown="1">
+    <html>
+      <head>
+      <em> testing italics with code block </em>
+      </head>
+    </html>
+</div>
+
+    <div markdown="1">
+    <html>
+      <head>
+      <em> testing italics with code block </em>
+      </head>
+    </html>
+    </div>
+
+
+
 
 ![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true)
 
