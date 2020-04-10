@@ -60,9 +60,11 @@ Virtual events are online events where people interact in a virtual environment 
    <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true" alt="brightly lit laptop screen">
   </div>
 </div>
-<hr size="15" width="72%" align="center" color="black">
+<hr size="5px" width="72%" align="center" color="black">
 </body>
 </div>
+
+
 
 
 ### Active Event Examples 
