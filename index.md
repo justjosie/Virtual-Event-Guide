@@ -62,12 +62,10 @@ Virtual events are online events where people interact in a virtual environment 
    <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true" alt="brightly lit laptop screen">
   </div>
 </div>
-
+<hr size="3" width="72%" align="left" color="black">
 </body>
 </div>
-***
-___
----
+
 
 ### Active Event Examples 
 
@@ -78,7 +76,7 @@ Perhaps the simplest of the virtual options, live streaming is probably the most
 If you want to create a more interactive presenting experience, where the participants can contribute beyond live-chat, you can explore presentation options such as Webex, Google Video Hangouts, or other video chat options. These work best with **large** crowds (>30 participants).
 
 <div markdown="1">
-<div align="center"> ![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Presenting%20on%20Quantum%20with%20Whiteboard.jpg?raw=true)</div>
+<div align="center"> <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Presenting%20on%20Quantum%20with%20Whiteboard.jpg?raw=true" alt="presenter in front of white board"> </div>
 </div>
 #### Meetups
 
