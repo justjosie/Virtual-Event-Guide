@@ -39,7 +39,7 @@ Virtual events are online events where people interact in a virtual environment 
 .column {
   float: left;
   width: 50%;
-  padding: 10px;
+  padding: 0px;
   height: 300px; 
 }
 
@@ -65,7 +65,7 @@ Virtual events are online events where people interact in a virtual environment 
 
 </body>
 </div>
-
+***
 
 ### Active Event Examples 
 
