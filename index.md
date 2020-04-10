@@ -52,8 +52,6 @@ Virtual events are online events where people interact in a virtual environment 
 </style>
 </head>
 <body>
-
-
 <div class="container">
   <div class="column" id="column1" style="background-color:transparent;">
     <p>There are 2 general types of virtual engagements: active and passive. An active event is asking every participant to give something at a certain time, whether it’s their voice, their attention, or their work. A passive event may ask for the same things, but the participant is free to engage whenever it’s convenient for them. You can think of these as asynchronous events. </p>
@@ -62,7 +60,7 @@ Virtual events are online events where people interact in a virtual environment 
    <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true" alt="brightly lit laptop screen">
   </div>
 </div>
-<hr size="3" width="72%" align="left" color="black">
+<hr size="15" width="72%" align="center" color="black">
 </body>
 </div>
 
