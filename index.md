@@ -19,14 +19,47 @@ One good principle to always follow – **the most successful events have a them
 There are a lot of opportunities to create, host, or participate in virtual events. Virtual events remove the physical-interaction from the activity, which can make them unique experiences with a slightly different approach to planning. With virtual events on the rise, we wanted to offer our resources and guide for how you may be able to optimize your own virtual event! 
 
 **What are virtual events?**
+
 Virtual events are online events where people interact in a virtual environment online, rather than gathering in a physical location. It may sound limiting, but there are quite a few options for exciting virtual events that not only can reach a larger audience - but are more accessible overall! Virtual activities can also be added to a live event, as an additional experience for your attendees!
 
 **What are some virtual event options?**
+
 There are 2 general types of virtual engagements: active and passive. An **active event** is asking every participant to give something at a certain time, whether it’s their voice, their attention, or their work. A **passive event** may ask for the same things, but the participant is free to engage whenever it’s convenient for them. You can think of these as asynchronous events. 
 
 ![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true)
 
 
+### <div align="center"> </b> Active <b> Event Examples </div>
+
+#### Virtual Presentations _(Livestream)_
+
+Perhaps the simplest of the virtual options, live streaming is probably the most accessible and usable way you can create an event online. Think of this as a lecture, with 1 or 2 people taking and the audience listening. With various free streaming platforms (YouTube Live, Twitch, Mixer), you can host a live presentation or speaker to a viewing audience online. 
+
+If you want to create a more interactive presenting experience, where the participants can contribute beyond live-chat, you can explore presentation options such as Webex, Google Video Hangouts, or other video chat options. These work best with **large** crowds (>30 participants).
+
+![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Presenting%20on%20Quantum%20with%20Whiteboard.jpg?raw=true)
+
+#### Meetups
+
+The word “meetup” implies meeting up - but it doesn’t imply that you cannot do it in a virtual space. A meetup is a group connection where everyone is given an equal voice. Connecting via webcams has become more accessible than ever. You can catch up, have a viewing party, enjoy a happy hour, and whatever else you think of! Virtual hangouts can be exciting and even keep you connected with long-distance colleagues. These work best with **small - medium** crowds (3 - 20 participants).
+
+#### Reading Groups
+
+Some Qiskitters get together over Slack or WebEx and host reading groups of different quantum research papers or chapters in the online qiskit textbook. This is typically followed by a Q&A with either the author, or an industry expert on the topic. These work best in an environment where everyone can share their thoughts and opinions openly. We recommend **small** groups of 3 - 10 participants. 
+
+#### Meet in a Game
+
+Between the portability of the Nintendo Switch, the huge boom of games available on PC, and every other console available, meeting up inside a game world is now much more reality than the days of Tron. Some qiskitters met up in Animal Crossing recently, and even created some in-game swag items. We recommend Minecraft, Animal Crossing, or anywhere else you can show off your creativity and build the community (and friendships!).
+
+| Photo 1 | Photo 2 |
+| ------------ | ------------- | 
+| ![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20QR.png?raw=true)|![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/animal%20crossing%20mod.jpg?raw=true)|
+
+#### Hackathons
+Hackathons can come in many forms, in many places, and the virtual space is no exception. Whether it’s an ongoing challenge, a problem-focused collaboration, or a live competition - hackathons can be hosted virtually through many different spaces. For in depth hackathon guidelines both inside and outside of the virtual space, you can download it [HERE](https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/University%20Hackathon%20Guide.pdf). 
+
+
+### <div align="center"> </b> Passive <b> Event Examples </div>
 
 
 
