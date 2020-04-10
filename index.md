@@ -4,10 +4,10 @@ OPTION 1
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-<style>
-img {
-  width: 60%;
-}
+ img{
+      max-width: 100%;
+      max-height: auto;
+      }
 * {
   box-sizing: border-box;
 }
@@ -31,15 +31,16 @@ img {
 <body>
 
 
-<div class="row">
-  <div class="column" style="background-color:transparent;">
+<div class="container">
+  <div class="column" id="column1" style="background-color:transparent;">
     <h3>What are some virtual event options? </h3>
     <p>There are 2 general types of virtual engagements: active and passive. An active event is asking every participant to give something at a certain time, whether it’s their voice, their attention, or their work. A passive event may ask for the same things, but the participant is free to engage whenever it’s convenient for them. You can think of these as asynchronous events. </p>
   </div>
-  <div class="column" style="background-color:transparent;"> 
-   <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true">
+  <div class="column" id="column2" style="background-color:transparent;"> 
+   <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true" alt="brightly lit laptop screen">
   </div>
 </div>
+
 </body>
 </div>
 
