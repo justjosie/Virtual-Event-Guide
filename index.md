@@ -1,46 +1,5 @@
 OPTION 1
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  height: 300px; 
-}
-
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-<body>
-
-
-<div class="row">
-  <div class="column" style="background-color:white;">
-    <h2>What are some virtual event options? </h2>
-    <p>There are 2 general types of virtual engagements: active and passive. An active event is asking every participant to give something at a certain time, whether it’s their voice, their attention, or their work. A passive event may ask for the same things, but the participant is free to engage whenever it’s convenient for them. You can think of these as asynchronous events. </p>
-  </div>
-  <div class="column" style="background-color:white;"> 
-   <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true"width="500" height="199">
-  </div>
-</div>
-
-</body>
-
-
-OPTION 2
-
 <div markdown="1">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -70,16 +29,16 @@ OPTION 2
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h2>What are some virtual event options? </h2>
+    <b>What are some virtual event options? </b>
     <p>There are 2 general types of virtual engagements: active and passive. An active event is asking every participant to give something at a certain time, whether it’s their voice, their attention, or their work. A passive event may ask for the same things, but the participant is free to engage whenever it’s convenient for them. You can think of these as asynchronous events. </p>
   </div>
   <div class="column" style="background-color:white;"> 
-   <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true"width="500" height="199">
+   <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true" width="500" height="332">
   </div>
 </div>
-
 </body>
 </div>
+
 
 ![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true)
 
