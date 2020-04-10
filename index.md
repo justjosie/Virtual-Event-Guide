@@ -1,3 +1,15 @@
+Testing to find out how to use HTML in here
+
+
+<em> Testing italics </em>
+
+    <html>
+      <head>
+      <em> testing italics with code block </em>
+      </head>
+    </html>
+
+
 ![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true)
 
 # Hello Qiskitters!
