@@ -1,3 +1,12 @@
+# header 1
+## header 2
+### header 3
+#### header 4
+##### header 5
+###### header 6
+
+
+
 ![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true)
 
 # Hello Qiskitters!
@@ -202,8 +211,8 @@ Here’s [IBM Quantum’s Code of Conduct](https://drive.google.com/open?id=15mn
 * Depending on your event, you may want to use different tools or combine different platforms in creative ways – which is highly encouraged! There are many many options available to host a virtual event within, and while some may meet your specific needs without meeting others, there is no rule that says you can’t use more than one!
 * **IMPORTANT!** Whichever platform(s) you end up using – not only should you make sure your team and you take some time to be familiar with the system (we recommend an internal dry-run within the team – just to work out any planning kinks). You should also be making sure that every participant knows where they need to be and when – so make sure and make that explicit and clear, and share with participants at least several days prior to the event start day so they can also take their own opportunity to become familiar with it as well.
 
-## Recommended Tools from the Qiskit Community Team
- 
+## Recommended Tools
+###### from the Qiskit Community Team
 
 <div markdown="1">
 <head>
