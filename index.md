@@ -90,9 +90,45 @@ Some Qiskitters get together over Slack or WebEx and host reading groups of diff
 
 Between the portability of the Nintendo Switch, the huge boom of games available on PC, and every other console available, meeting up inside a game world is now much more reality than the days of Tron. Some qiskitters met up in Animal Crossing recently, and even created some in-game swag items. We recommend Minecraft, Animal Crossing, or anywhere else you can show off your creativity and build the community (and friendships!).
 
-| Photo 1 | Photo 2 |
-| ------------ | ------------- | 
-| ![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20QR.png?raw=true)|![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/animal%20crossing%20mod.jpg?raw=true)|
+<div markdown="1">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+ img{
+      max-width: 100%;
+      max-height: auto;
+      }
+* {
+  box-sizing: border-box;
+}
+
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 0px;
+  height: 300px; 
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="column" id="column1" style="background-color:transparent;">
+      <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20QR.png?raw=true)" alt="qiskit qr">
+  </div>
+  <div class="column" id="column2" style="background-color:transparent;"> 
+   <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/animal%20crossing%20mod.jpg?raw=true)" alt="animal crossing mod">
+  </div>
+</div>
+</body>
+</div>
 
 #### Hackathons
 Hackathons can come in many forms, in many places, and the virtual space is no exception. Whether it’s an ongoing challenge, a problem-focused collaboration, or a live competition - hackathons can be hosted virtually through many different spaces. For in depth hackathon guidelines both inside and outside of the virtual space, you can download it [HERE](https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/University%20Hackathon%20Guide.pdf). 
