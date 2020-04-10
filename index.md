@@ -1,4 +1,32 @@
-OPTION 1
+![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true)
+
+# Hello Qiskitters!
+
+This is the **Qiskit Virtual Event Planning Guide**. This guide is meant as a companion for anyone looking to host a digital event, including resources, templates, and ideas. With that said, most things you’ll find here are **suggestions**. At the end of the day, you know your audience better than we do. We’re here to help you make it as successful as possible, whatever you chose to do. 
+ 
+If you only have a few minutes to read this document, skip to the TL;DR section at the end.
+
+## Section 1: Overview
+
+This guide provides relevant resources and guidance for your event. We have included IBM-specific ideas and guidance to help fill out your event and make it as successful as possible.
+ 
+The term “your event” is used on purpose. Although IBM is more than happy to sponsor or support, at the end of the day this event is owned by you and your group of collaborators. We are here to help and support you along the way. As a qiskit-themed event, there are a few rules that we’d like to see put into place. If your group is on board, we may be able to send swag, or even have IBM Researchers attend.
+ 
+One good principle to always follow – **the most successful events have a theme**. Gaming, chemistry, quantum 101, exploring new algorithms, and adapting classical approaches are all themes we’ve seen before. You can, and should, adapt one of those for your event, or create something entirely new.
+
+### Section 1-1: Intro to Virtual Event Opportunities
+
+There are a lot of opportunities to create, host, or participate in virtual events. Virtual events remove the physical-interaction from the activity, which can make them unique experiences with a slightly different approach to planning. With virtual events on the rise, we wanted to offer our resources and guide for how you may be able to optimize your own virtual event! 
+
+**What are virtual events?**
+
+Virtual events are online events where people interact in a virtual environment online, rather than gathering in a physical location. It may sound limiting, but there are quite a few options for exciting virtual events that not only can reach a larger audience - but are more accessible overall! Virtual activities can also be added to a live event, as an additional experience for your attendees!
+
+### What are some virtual event options?
+
+There are 2 general types of virtual engagements: active and passive. An **active event** is asking every participant to give something at a certain time, whether it’s their voice, their attention, or their work. A **passive event** may ask for the same things, but the participant is free to engage whenever it’s convenient for them. You can think of these as asynchronous events. 
+
+![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true)
 
 <div markdown="1">
 <head>
@@ -34,7 +62,7 @@ OPTION 1
 <div class="container">
   <div class="column" id="column1" style="background-color:transparent;">
     <h3>What are some virtual event options? </h3>
-    <p>There are 2 general types of virtual engagements: active and passive. An active event is asking every participant to give something at a certain time, whether it’s their voice, their attention, or their work. A passive event may ask for the same things, but the participant is free to engage whenever it’s convenient for them. You can think of these as asynchronous events. </p>
+    <p>There are 2 general types of virtual engagements: active and passive. An active event is asking every participant to give something at a certain time, whether it’s their voice, their attention, or  </p>
   </div>
   <div class="column" id="column2" style="background-color:transparent;"> 
    <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true" alt="brightly lit laptop screen">
@@ -43,38 +71,7 @@ OPTION 1
 
 </body>
 </div>
-
-
-![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true)
-
-# Hello Qiskitters!
-
-This is the **Qiskit Virtual Event Planning Guide**. This guide is meant as a companion for anyone looking to host a digital event, including resources, templates, and ideas. With that said, most things you’ll find here are **suggestions**. At the end of the day, you know your audience better than we do. We’re here to help you make it as successful as possible, whatever you chose to do. 
- 
-If you only have a few minutes to read this document, skip to the TL;DR section at the end.
-
-## Section 1: Overview
-
-This guide provides relevant resources and guidance for your event. We have included IBM-specific ideas and guidance to help fill out your event and make it as successful as possible.
- 
-The term “your event” is used on purpose. Although IBM is more than happy to sponsor or support, at the end of the day this event is owned by you and your group of collaborators. We are here to help and support you along the way. As a qiskit-themed event, there are a few rules that we’d like to see put into place. If your group is on board, we may be able to send swag, or even have IBM Researchers attend.
- 
-One good principle to always follow – **the most successful events have a theme**. Gaming, chemistry, quantum 101, exploring new algorithms, and adapting classical approaches are all themes we’ve seen before. You can, and should, adapt one of those for your event, or create something entirely new.
-
-### Section 1-1: Intro to Virtual Event Opportunities
-
-There are a lot of opportunities to create, host, or participate in virtual events. Virtual events remove the physical-interaction from the activity, which can make them unique experiences with a slightly different approach to planning. With virtual events on the rise, we wanted to offer our resources and guide for how you may be able to optimize your own virtual event! 
-
-**What are virtual events?**
-
-Virtual events are online events where people interact in a virtual environment online, rather than gathering in a physical location. It may sound limiting, but there are quite a few options for exciting virtual events that not only can reach a larger audience - but are more accessible overall! Virtual activities can also be added to a live event, as an additional experience for your attendees!
-
-### What are some virtual event options?
-
-There are 2 general types of virtual engagements: active and passive. An **active event** is asking every participant to give something at a certain time, whether it’s their voice, their attention, or their work. A **passive event** may ask for the same things, but the participant is free to engage whenever it’s convenient for them. You can think of these as asynchronous events. 
-
-![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true)
-
+their work. A passive event may ask for the same things, but the participant is free to engage whenever it’s convenient for them. You can think of these as asynchronous events.
 
 ### Active Event Examples 
 
