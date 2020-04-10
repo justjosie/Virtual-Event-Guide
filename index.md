@@ -27,11 +27,11 @@ One good principle to always follow – **the most successful events have a them
 
 There are a lot of opportunities to create, host, or participate in virtual events. Virtual events remove the physical-interaction from the activity, which can make them unique experiences with a slightly different approach to planning. With virtual events on the rise, we wanted to offer our resources and guide for how you may be able to optimize your own virtual event! 
 
-**What are virtual events?**
+###### What are virtual events?
 
 Virtual events are online events where people interact in a virtual environment online, rather than gathering in a physical location. It may sound limiting, but there are quite a few options for exciting virtual events that not only can reach a larger audience - but are more accessible overall! Virtual activities can also be added to a live event, as an additional experience for your attendees!
 
-### What are some virtual event options?
+###### What are some virtual event options?
 <div markdown="1">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -69,16 +69,18 @@ Virtual events are online events where people interact in a virtual environment 
    <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true" alt="brightly lit laptop screen">
   </div>
 </div>
+<body>
 <hr size="15p" width="72%" align="center" color="black">
+</body>
 </body>
 </div>
 
 
 
 
-### Active Event Examples 
+#### Active Event Examples 
 
-#### Virtual Presentations _(Livestream)_
+##### Virtual Presentations _(Livestream)_
 
 Perhaps the simplest of the virtual options, live streaming is probably the most accessible and usable way you can create an event online. Think of this as a lecture, with 1 or 2 people taking and the audience listening. With various free streaming platforms (YouTube Live, Twitch, Mixer), you can host a live presentation or speaker to a viewing audience online. 
 
@@ -87,15 +89,15 @@ If you want to create a more interactive presenting experience, where the partic
 <div markdown="1">
 <div align="center"> <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Presenting%20on%20Quantum%20with%20Whiteboard.jpg?raw=true" alt="presenter in front of white board"> </div>
 </div>
-#### Meetups
+##### Meetups
 
 The word “meetup” implies meeting up - but it doesn’t imply that you cannot do it in a virtual space. A meetup is a group connection where everyone is given an equal voice. Connecting via webcams has become more accessible than ever. You can catch up, have a viewing party, enjoy a happy hour, and whatever else you think of! Virtual hangouts can be exciting and even keep you connected with long-distance colleagues. These work best with **small - medium** crowds (3 - 20 participants).
 
-#### Reading Groups
+##### Reading Groups
 
 Some Qiskitters get together over Slack or WebEx and host reading groups of different quantum research papers or chapters in the online qiskit textbook. This is typically followed by a Q&A with either the author, or an industry expert on the topic. These work best in an environment where everyone can share their thoughts and opinions openly. We recommend **small** groups of 3 - 10 participants. 
 
-#### Meet in a Game
+##### Meet in a Game
 
 Between the portability of the Nintendo Switch, the huge boom of games available on PC, and every other console available, meeting up inside a game world is now much more reality than the days of Tron. Some qiskitters met up in Animal Crossing recently, and even created some in-game swag items. We recommend Minecraft, Animal Crossing, or anywhere else you can show off your creativity and build the community (and friendships!).
 
@@ -139,28 +141,45 @@ Between the portability of the Nintendo Switch, the huge boom of games available
 </body>
 </div>
 
-#### Hackathons
+##### Hackathons
 Hackathons can come in many forms, in many places, and the virtual space is no exception. Whether it’s an ongoing challenge, a problem-focused collaboration, or a live competition - hackathons can be hosted virtually through many different spaces. For in depth hackathon guidelines both inside and outside of the virtual space, you can download it [HERE](https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/University%20Hackathon%20Guide.pdf). 
 
+<div markdown="1">
+<head>
+<style>
+<body> 
+<hr size="5px" width="72%" align="center" color="black">
+</body>
+</style>
+</head>
+</div>
 
-### Passive Event Examples
+#### Passive Event Examples
 
-#### Collaborate on a Project
+##### Collaborate on a Project
 
 Tools like GitHub make it a cinch for teams spread out to collaborate on a project together. Many members of the Qiskit Advocate group have utilized this approach to add contributions to the qiskit repo, or to add other valuable insights to the community at large.
 
-#### Bug Hunting
+##### Bug Hunting
 
 No, this isn’t another Animal Crossing reference. You can organize a group to look at a specific codebase or section of a project and go hunting for bugs within it. Using Github is especially useful to do this. Some organizers set up prizes for whoever finds and fixes as the most bugs within a certain time frame.
 
 ![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Quantum%20programmed%20game%20device.jpg?raw=true)
 
-#### Scavenger Hunt
+##### Scavenger Hunt
 
 Exploring a new concept comes with many different steps or focus areas. Setting up a digital scavenger hunt is an engaging way to look at a large collection of items. You can assign different aspects with unique point values, and ask for pictures or confirmation of sorts. There are a few websites and apps that have been created specifically to host online scavenger hunts.
 
+<div markdown="1">
+<head>
+<style>
+<body> 
+<hr size="5px" width="72%" align="center" color="black">
+</body>
+</style>
+</head>
+</div>
 
-### We're Here for You!
 As always, if you are interested in hosting any type of virtual event, don’t hesitate to reach out to the Community Team! We’re here to help you create exciting and enjoyable experiences, so make sure and email us at xxxxxx!
 
 
