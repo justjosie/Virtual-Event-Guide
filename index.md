@@ -184,6 +184,7 @@ _(Optional for less formal events or open-ended invitations)_
 
 ### Code of Conduct 
 _(encouraged for any/all events)_
+
 Here’s [IBM Quantum’s Code of Conduct](https://drive.google.com/open?id=15mnpIQ9n4m3FUCSjpuH_PbnG7HltHQV8) that you can use for your event.
 
 ### Communication/Promotion Plan
@@ -191,15 +192,58 @@ Here’s [IBM Quantum’s Code of Conduct](https://drive.google.com/open?id=15mn
 * Identify what channels you are using (Examples: Slack, Twitter, Bulletin Board, Forum Announcement) to do your promotions and outreach
 * Identify the dates or general time frames when you would like to announce the event, if/when any pre-work will be recommended or required for participation, or any important updates or engagements you may have with participants (and observers from home) leading up to the event.
 
+### Communication Method
+* For the event itself, you want to make sure and have a system in place to communicate with all participants for any important announcements, engagements, benchmark reminders, and what have you.
+* Generally speaking, you will want to have one central location for all communications during the event. The Qiskit Community Team primarily uses Slack for these types of communications, but you can also explore other options that may be a better fit for your group. Whether it’s a forum, Discord, or a good old-fashioned mass-group chat on Google Hangouts or Facebook Chat – you want to make sure you have all your participants' eyes (and ears) in one place.
+* Email is NOT recommended for these communications, and can often result in unwieldy delays or logistical confusion (especially in the face of ever-vigilant spam and quarantine filters).
+
+### Virtual Tools/Platforms
+* Instead of finding your “venue” and reserving your “space” - you want to find the platform that works for you, and make sure it’s all set up to your desired “floorplan” so that your virtual event flows just as smoothly as it would in person.
+* Depending on your event, you may want to use different tools or combine different platforms in creative ways – which is highly encouraged! There are many many options available to host a virtual event within, and while some may meet your specific needs without meeting others, there is no rule that says you can’t use more than one!
+* **IMPORTANT!** Whichever platform(s) you end up using – not only should you make sure your team and you take some time to be familiar with the system (we recommend an internal dry-run within the team – just to work out any planning kinks). You should also be making sure that every participant knows where they need to be and when – so make sure and make that explicit and clear, and share with participants at least several days prior to the event start day so they can also take their own opportunity to become familiar with it as well.
+
+## Recommended Tools from the Qiskit Community Team
+ 
+
+<div markdown="1">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+ img{
+      max-width: 100%;
+      max-height: auto;
+      }
+* {
+  box-sizing: border-box;
+}
 
 
+.column {
+  float: left;
+  width: 50%;
+  padding: 0px;
+  height: 300px; 
+}
 
 
-
-
-
-
-
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="column" id="column1" style="background-color:transparent;">
+    <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/desk%20filled%20with%20laptops%20and%20electronics.jpg?raw=true" alt="table with electronics and notepads">
+  </div>
+  <div class="column" id="column2" style="background-color:transparent;"> 
+   <p> As mentioned above, the Qiskit team here at IBM has been working hard to identify what resources and platforms we think would be the optimum fits for Qiskit and Quantum Hackathons – and based on that, we have some recommended tools listed below. This is by no means a restrictive list, and every team is highly encouraged to see what tools are available and choose the one that fits best for whatever specific event is planned.</p>
+  </div>
+</div>
+</body>
+</div>
 
 
 
