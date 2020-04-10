@@ -6,7 +6,7 @@ OPTION 1
 <style>
 <style>
 img {
-  width: 100%;
+  width: 80%;
 }
 * {
   box-sizing: border-box;
