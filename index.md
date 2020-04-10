@@ -23,11 +23,6 @@ There are a lot of opportunities to create, host, or participate in virtual even
 Virtual events are online events where people interact in a virtual environment online, rather than gathering in a physical location. It may sound limiting, but there are quite a few options for exciting virtual events that not only can reach a larger audience - but are more accessible overall! Virtual activities can also be added to a live event, as an additional experience for your attendees!
 
 ### What are some virtual event options?
-
-There are 2 general types of virtual engagements: active and passive. An **active event** is asking every participant to give something at a certain time, whether it’s their voice, their attention, or their work. A **passive event** may ask for the same things, but the participant is free to engage whenever it’s convenient for them. You can think of these as asynchronous events. 
-
-![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true)
-
 <div markdown="1">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -59,16 +54,17 @@ There are 2 general types of virtual engagements: active and passive. An **activ
 <body>
 
 
-  <div class="container">
+<div class="container">
   <div class="column" id="column1" style="background-color:transparent;">
     <p>There are 2 general types of virtual engagements: active and passive. An active event is asking every participant to give something at a certain time, whether it’s their voice, their attention, or their work. A passive event may ask for the same things, but the participant is free to engage whenever it’s convenient for them. You can think of these as asynchronous events. </p>
   </div>
   <div class="column" id="column2" style="background-color:transparent;"> 
    <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true" alt="brightly lit laptop screen">
   </div>
-  </div>
-  </body>
-  </div>
+</div>
+
+</body>
+</div>
 
 
 ### Active Event Examples 
