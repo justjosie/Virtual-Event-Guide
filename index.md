@@ -29,7 +29,7 @@ There are 2 general types of virtual engagements: active and passive. An **activ
 ![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true)
 
 
-### <div align="center"> </b> Active <b> Event Examples </div>
+### Active Event Examples 
 
 #### Virtual Presentations _(Livestream)_
 
@@ -59,7 +59,7 @@ Between the portability of the Nintendo Switch, the huge boom of games available
 Hackathons can come in many forms, in many places, and the virtual space is no exception. Whether it’s an ongoing challenge, a problem-focused collaboration, or a live competition - hackathons can be hosted virtually through many different spaces. For in depth hackathon guidelines both inside and outside of the virtual space, you can download it [HERE](https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/University%20Hackathon%20Guide.pdf). 
 
 
-### <div align="center"> </b> Passive <b> Event Examples </div>
+### Passive Event Examples
 
 
 
