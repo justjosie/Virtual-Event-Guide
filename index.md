@@ -1,18 +1,23 @@
 ---
 layout: default
-title: TEST 3
-nav_order: 2
+title: Navigation Structure
+nav_order: 1
 ---
+
+# Navigation Structure
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-
 ---
 
 <div markdown="1">
 
 
-<h1> 121</h1>
+<h1> 181</h1>
 
 <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true" alt="laptop with quantum and qiskit stickers">
 
