@@ -34,16 +34,12 @@ One good principle to always follow – <strong>the most successful events have 
 * {
   box-sizing: border-box;
 }
-
-
 .column {
   float: left;
   width: 50%;
   padding: 0px;
   height: 300px; 
 }
-
-
 .row:after {
   content: "";
   display: table;
@@ -102,6 +98,11 @@ If you want to create a more interactive presenting experience, where the partic
   padding: 0px;
   height: 300px; 
 }
+ .row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 </style>
 </head>
 <body>
@@ -112,7 +113,9 @@ If you want to create a more interactive presenting experience, where the partic
   <div class="column" id="column2" style="background-color:transparent;"> 
    <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/animal%20crossing%20mod.jpg?raw=true" alt="animal crossing mod">
   </div>
-</div>
+<body>
+<hr size="15" noshade>
+</body>
 </body>
 
 <h5>Hackathons</h5>
@@ -123,21 +126,21 @@ If you want to create a more interactive presenting experience, where the partic
 <hr size="15" noshade>
 </body>
 
-#### Passive Event Examples
+<h4>Passive Event Examples</h4>
 
-##### Collaborate on a Project
+<h5>Collaborate on a Project</h5>
 
-Tools like GitHub make it a cinch for teams spread out to collaborate on a project together. Many members of the Qiskit Advocate group have utilized this approach to add contributions to the qiskit repo, or to add other valuable insights to the community at large.
+<p>Tools like GitHub make it a cinch for teams spread out to collaborate on a project together. Many members of the Qiskit Advocate group have utilized this approach to add contributions to the qiskit repo, or to add other valuable insights to the community at large.</p>
 
-##### Bug Hunting
+<h5>Bug Hunting</h5>
 
-No, this isn’t another Animal Crossing reference. You can organize a group to look at a specific codebase or section of a project and go hunting for bugs within it. Using Github is especially useful to do this. Some organizers set up prizes for whoever finds and fixes as the most bugs within a certain time frame.
+<p>No, this isn’t another Animal Crossing reference. You can organize a group to look at a specific codebase or section of a project and go hunting for bugs within it. Using Github is especially useful to do this. Some organizers set up prizes for whoever finds and fixes as the most bugs within a certain time frame.</p>
 
-![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Quantum%20programmed%20game%20device.jpg?raw=true)
+<img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Quantum%20programmed%20game%20device.jpg?raw=true" alt="programmed game device flashing red square lights">
 
-##### Scavenger Hunt
+<h5>Scavenger Hunt</h5>
 
-Exploring a new concept comes with many different steps or focus areas. Setting up a digital scavenger hunt is an engaging way to look at a large collection of items. You can assign different aspects with unique point values, and ask for pictures or confirmation of sorts. There are a few websites and apps that have been created specifically to host online scavenger hunts.
+<p>Exploring a new concept comes with many different steps or focus areas. Setting up a digital scavenger hunt is an engaging way to look at a large collection of items. You can assign different aspects with unique point values, and ask for pictures or confirmation of sorts. There are a few websites and apps that have been created specifically to host online scavenger hunts.</p>
 
 <div markdown="1">
 <body>
@@ -145,55 +148,61 @@ Exploring a new concept comes with many different steps or focus areas. Setting 
 </body>
 </div>
 
-As always, if you are interested in hosting any type of virtual event, don’t hesitate to reach out to the Community Team! We’re here to help you create exciting and enjoyable experiences, so make sure and email us at xxxxxx!
+<h6>As always, if you are interested in hosting any type of virtual event, don’t hesitate to reach out to the Community Team! We’re here to help you create exciting and enjoyable experiences, so make sure and email us at xxxxxx!</h6>
 
+<h2>Section 2: Virtual Event Planning 101</h2>
 
+<p>Regardless of the event you are planning (virtual or in person), you will still have the fairly standard checklist of items you will want to have in place in order to ensure its success. However, in a virtual space it becomes more critical that those items are (a) <strong>planned</strong> in advance, (b) <strong>communicated</strong> clearly and directly to all participants in the event prior to the event start, and (c) are <strong>tracked and documented</strong> in a central location for shared visibility across team member pre-, during, and post-event.<br><br>
+The key difference you will want to keep in mind between a virtual and live event is location, location, location! When you’re on-site at an event? It’s usually pretty simple to know where everyone is, and to make sure any announcements over the PA are being heard by everyone. In a virtual space, this is more difficult (but not impossible!) to achieve, and additional steps or effort will need to be implemented to make sure you are not only reaching participants, but engaging with them as well. Reading text-updates throughout a day is all well and good, but for presentations, collaborations, breakouts, roundtables, etc… you can see how this virtual “movement” is a little harder to organize and keep your eyes on, but is still very achievable.<br><br>
+There are many great tools and platforms available to help bridge that planning gap between live event planning and virtual event planning for you and your team, and the Qiskit Community Team has also done some research and at the end of this section you will find our recommendations for the tools we have looked into that will likely be a great fit to help support your entire event!</p>
 
-## Section 2: Virtual Event Planning 101
+<img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Crowdcast%20virtual%20event%20collaboration%20with%20phone%20tablet%20laptop%20on%20desk.jpg?raw=true" alt="webcast collaboration with phone tablet and laptop on desk">
 
-Regardless of the event you are planning (virtual or in person), you will still have the fairly standard checklist of items you will want to have in place in order to ensure its success. However, in a virtual space it becomes more critical that those items are (a) **planned** in advance, (b) **communicated** clearly and directly to all participants in the event prior to the event start, and (c) are **tracked and documented** in a central location for shared visibility across team member pre-, during, and post-event.
- 
-The key difference you will want to keep in mind between a virtual and live event is location, location, location! When you’re on-site at an event? It’s usually pretty simple to know where everyone is, and to make sure any announcements over the PA are being heard by everyone. In a virtual space, this is more difficult (but not impossible!) to achieve, and additional steps or effort will need to be implemented to make sure you are not only reaching participants, but engaging with them as well. Reading text-updates throughout a day is all well and good, but for presentations, collaborations, breakouts, roundtables, etc… you can see how this virtual “movement” is a little harder to organize and keep your eyes on, but is still very achievable. 
+<p>As always, virtual or not, the Qiskit Community Team is also available as a resource in creating, planning, and executing an event – so don’t hesitate to email if you have any general or more specific questions!<br><br>
+Regardless of how you are managing the event, you will want to make sure and have the following predefined and finalized PRIOR to any public-facing communications (and most certainly prior to the event start date):</p>
 
-There are many great tools and platforms available to help bridge that planning gap between live event planning and virtual event planning for you and your team, and the Qiskit Community Team has also done some research and at the end of this section you will find our recommendations for the tools we have looked into that will likely be a great fit to help support your entire event!
+<h4>Clearly Identified Team Roles</h4>
+<ul>
+<li>Each component within an event should have a clear lead, and all team members should be aware of “Who To” go to for any contributions or questions</li>
+<li>Examples of team roles: Moderator, Emcee, Coach, Mentor, Catering, Room set up, Clean up</li>
+<li>While some team roles may be supported by multiple people – the general best practice is to make sure and designate a clear lead individual for each area</li>
+</ul>
 
-![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Crowdcast%20virtual%20event%20collaboration%20with%20phone%20tablet%20laptop%20on%20desk.jpg?raw=true)
+<h4>Event Schedule/Agenda</h4>
+<ul>
+<li>Make sure and clearly identify daily start and end times (and don’t forget to include the time zone!)</li>
+<li>If there are multiple platforms or resources being used, make sure the agenda reflects when you may be alternating from one to the other – everyone should know where they need to be and at what the time</li>
+<li>If there are any event-specific benchmarks throughout the event, make sure they are clearly communicated in your agenda for all participants and team-members</li>
+</ul>
 
-As always, virtual or not, the Qiskit Community Team is also available as a resource in creating, planning, and executing an event – so don’t hesitate to email if you have any general or more specific questions!
- 
-Regardless of how you are managing the event, you will want to make sure and have the following predefined and finalized PRIOR to any public-facing communications (and most certainly prior to the event start date):
+<h4>Registration</h4>
+<em>(Optional for less formal events or open-ended invitations)</em>
+<p>We suggest you try using Airtable for registration and tracking participants. Here’s a <a href="https://airtable.com/invite/l?inviteId=invcP2PJDeoCdHKjO&inviteToken=602fa0bbe9e04ec930d77d74f30548aac0d80bf7d42fd0b0421b2105fce85378">Sample</a>.</p>
 
-#### Clearly Identified Team Roles
-* Each component within an event should have a clear lead, and all team members should be aware of “Who To” go to for any contributions or questions
-* Examples of team roles: Moderator, Emcee, Coach, Mentor, Catering, Room set up, Clean up
-* While some team roles may be supported by multiple people – the general best practice is to make sure and designate a clear lead individual for each area
+<h4>Code of Conduct</h4>
+<em>(encouraged for any/all events)</em>
+<p>Here’s <a href="https://drive.google.com/open?id=15mnpIQ9n4m3FUCSjpuH_PbnG7HltHQV8">IBM Quantum’s Code of Conduct</a> that you can use for your event.</p>
 
-#### Event Schedule/Agenda
-* Make sure and clearly identify daily start and end times (and don’t forget to include the time zone!)
-* If there are multiple platforms or resources being used, make sure the agenda reflects when you may be alternating from one to the other – everyone should know where they need to be and at what the time
-* If there are any event-specific benchmarks throughout the event, make sure they are clearly communicated in your agenda for all participants and team-members
+<h4>Communication/Promotion Plan</h4>
+<ul>
+<li>Promotion and communications are critical when it comes to making sure people are aware your event is going on, and how they may be able to connect with it or join. Make sure you give yourself several weeks for pre-event promotion!</li>
+<li>Identify what channels you are using (Examples: Slack, Twitter, Bulletin Board, Forum Announcement) to do your promotions and outreach</li>
+<li>Identify the dates or general time frames when you would like to announce the event, if/when any pre-work will be recommended or required for participation, or any important updates or engagements you may have with participants (and observers from home) leading up to the event.</li>
+</ul>
 
-#### Registration
-_(Optional for less formal events or open-ended invitations)_
-We suggest you try using Airtable for registration and tracking participants. Here’s a [sample](https://airtable.com/invite/l?inviteId=invcP2PJDeoCdHKjO&inviteToken=602fa0bbe9e04ec930d77d74f30548aac0d80bf7d42fd0b0421b2105fce85378).
+<h4>Communication Method</h4>
+<ul>
+<li>For the event itself, you want to make sure and have a system in place to communicate with all participants for any important announcements, engagements, benchmark reminders, and what have you.</li>
+<li>Generally speaking, you will want to have one central location for all communications during the event. The Qiskit Community Team primarily uses Slack for these types of communications, but you can also explore other options that may be a better fit for your group. Whether it’s a forum, Discord, or a good old-fashioned mass-group chat on Google Hangouts or Facebook Chat – you want to make sure you have all your participants' eyes (and ears) in one place.</li>
+<li>Email is NOT recommended for these communications, and can often result in unwieldy delays or logistical confusion (especially in the face of ever-vigilant spam and quarantine filters).</li>
+</ul>
 
-#### Code of Conduct
-Here’s [IBM Quantum’s Code of Conduct](https://drive.google.com/open?id=15mnpIQ9n4m3FUCSjpuH_PbnG7HltHQV8) that you can use for your event.
-
-#### Communication/Promotion Plan
-* Promotion and communications are critical when it comes to making sure people are aware your event is going on, and how they may be able to connect with it or join. Make sure you give yourself several weeks for pre-event promotion!
-* Identify what channels you are using (Examples: Slack, Twitter, Bulletin Board, Forum Announcement) to do your promotions and outreach
-* Identify the dates or general time frames when you would like to announce the event, if/when any pre-work will be recommended or required for participation, or any important updates or engagements you may have with participants (and observers from home) leading up to the event.
-
-#### Communication Method
-* For the event itself, you want to make sure and have a system in place to communicate with all participants for any important announcements, engagements, benchmark reminders, and what have you.
-* Generally speaking, you will want to have one central location for all communications during the event. The Qiskit Community Team primarily uses Slack for these types of communications, but you can also explore other options that may be a better fit for your group. Whether it’s a forum, Discord, or a good old-fashioned mass-group chat on Google Hangouts or Facebook Chat – you want to make sure you have all your participants' eyes (and ears) in one place.
-* Email is NOT recommended for these communications, and can often result in unwieldy delays or logistical confusion (especially in the face of ever-vigilant spam and quarantine filters).
-
-#### Virtual Tools/Platforms
-* Instead of finding your “venue” and reserving your “space” - you want to find the platform that works for you, and make sure it’s all set up to your desired “floorplan” so that your virtual event flows just as smoothly as it would in person.
-* Depending on your event, you may want to use different tools or combine different platforms in creative ways – which is highly encouraged! There are many many options available to host a virtual event within, and while some may meet your specific needs without meeting others, there is no rule that says you can’t use more than one!
-* **IMPORTANT!** Whichever platform(s) you end up using – not only should you make sure your team and you take some time to be familiar with the system (we recommend an internal dry-run within the team – just to work out any planning kinks). You should also be making sure that every participant knows where they need to be and when – so make sure and make that explicit and clear, and share with participants at least several days prior to the event start day so they can also take their own opportunity to become familiar with it as well.
+<h4>Virtual Tools/Platforms</h4>
+<ul>
+<li>Instead of finding your “venue” and reserving your “space” - you want to find the platform that works for you, and make sure it’s all set up to your desired “floorplan” so that your virtual event flows just as smoothly as it would in person.</li>
+<li>Depending on your event, you may want to use different tools or combine different platforms in creative ways – which is highly encouraged! There are many many options available to host a virtual event within, and while some may meet your specific needs without meeting others, there is no rule that says you can’t use more than one!</li>
+<li><strong>IMPORTANT!</strong> Whichever platform(s) you end up using – not only should you make sure your team and you take some time to be familiar with the system (we recommend an internal dry-run within the team – just to work out any planning kinks). You should also be making sure that every participant knows where they need to be and when – so make sure and make that explicit and clear, and share with participants at least several days prior to the event start day so they can also take their own opportunity to become familiar with it as well.</li>
+</ul>
 
 # Recommended Tools
 ## from the Qiskit Community Team
