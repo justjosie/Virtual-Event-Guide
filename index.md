@@ -1,12 +1,3 @@
-# header 1
-## header 2
-### header 3
-#### header 4
-##### header 5
-###### header 6
-
-
-
 ![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true)
 
 # Hello Qiskitters!
