@@ -1,18 +1,18 @@
 ![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true)
+<div markdown="1">
 
 # Hello Qiskitters!
 
-This is the **Qiskit Virtual Event Planning Guide**. This guide is meant as a companion for anyone looking to host a digital event, including resources, templates, and ideas. With that said, most things you’ll find here are **suggestions**. At the end of the day, you know your audience better than we do. We’re here to help you make it as successful as possible, whatever you chose to do. 
- 
-If you only have a few minutes to read this document, skip to the TL;DR section at the end.
+<p> This is the <strong> Qiskit Virtual Event Planning Guide</strong> This guide is meant as a companion for anyone looking to host a digital event, including resources, templates, and ideas. With that said, most things you’ll find here are <strong>suggestions</strong>. At the end of the day, you know your audience better than we do. We’re here to help you make it as successful as possible, whatever you chose to do. <br> <br>
+If you only have a few minutes to read this document, skip to the TL;DR section at the end.</p>
 
 ## Section 1: Overview
 
-This guide provides relevant resources and guidance for your event. We have included IBM-specific ideas and guidance to help fill out your event and make it as successful as possible.
- 
-The term “your event” is used on purpose. Although IBM is more than happy to sponsor or support, at the end of the day this event is owned by you and your group of collaborators. We are here to help and support you along the way. As a qiskit-themed event, there are a few rules that we’d like to see put into place. If your group is on board, we may be able to send swag, or even have IBM Researchers attend.
- 
-One good principle to always follow – **the most successful events have a theme**. Gaming, chemistry, quantum 101, exploring new algorithms, and adapting classical approaches are all themes we’ve seen before. You can, and should, adapt one of those for your event, or create something entirely new.
+<p> This guide provides relevant resources and guidance for your event. We have included IBM-specific ideas and guidance to help fill out your event and make it as successful as possible.<br> <br>
+The term “your event” is used on purpose. Although IBM is more than happy to sponsor or support, at the end of the day this event is owned by you and your group of collaborators. We are here to help and support you along the way. As a qiskit-themed event, there are a few rules that we’d like to see put into place. If your group is on board, we may be able to send swag, or even have IBM Researchers attend.<br> <br>
+One good principle to always follow – **the most successful events have a theme**. Gaming, chemistry, quantum 101, exploring new algorithms, and adapting classical approaches are all themes we’ve seen before. You can, and should, adapt one of those for your event, or create something entirely new.</p>
+
+</div>
 
 ### Section 1-1: Intro to Virtual Event Opportunities
 
