@@ -86,7 +86,7 @@ body {
 .sidebar a {
   display: block;
   color: white;
-  padding: 16px;
+  padding: 8px;
   text-decoration: none;
 }
  
@@ -101,9 +101,9 @@ body {
 }
 
 div.content {
-  margin-left: 400px;
+  margin-left: 40px;
   padding: 1px 16px;
-  height: 1000px;
+  height: 100%;
 }
 
 </style>
