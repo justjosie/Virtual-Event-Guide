@@ -44,7 +44,6 @@ div.content {
 <body>
 
 <div class="sidebar">
-  <a class="active" href="#HelloQiskitters">Hello Qiskitters!</a>
  <a href="#HelloQiskitters">Hello Qiskitters!</a>
 <a href="#Section1Overview">Section 1: Overview</a>
 <a href="#IntrotoVirtualEventOpportunities">Intro to Virtual Event Opportunities</a>
@@ -83,11 +82,11 @@ One good principle to always follow – <strong>the most successful events have 
 
 <p>There are a lot of opportunities to create, host, or participate in virtual events. Virtual events remove the physical-interaction from the activity, which can make them unique experiences with a slightly different approach to planning. With virtual events on the rise, we wanted to offer our resources and guide for how you may be able to optimize your own virtual event!</p>
 
-<h5 id="WhatAreVirtualEvents">What are virtual events?</h5>
+<h3 id="WhatAreVirtualEvents">What are virtual events?</h3>
 
 <p>Virtual events are online events where people interact in a virtual environment online, rather than gathering in a physical location. It may sound limiting, but there are quite a few options for exciting virtual events that not only can reach a larger audience - but are more accessible overall! Virtual activities can also be added to a live event, as an additional experience for your attendees!</p>
 
-<h5 id="WhatAreVirtualEventOptions">What are some virtual event options?</h5>
+<h3 id="WhatAreVirtualEventOptions">What are some virtual event options?</h3>
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -118,33 +117,33 @@ One good principle to always follow – <strong>the most successful events have 
     <p>There are 2 general types of virtual engagements: active and passive. An active event is asking every participant to give something at a certain time, whether it’s their voice, their attention, or their work. A passive event may ask for the same things, but the participant is free to engage whenever it’s convenient for them. You can think of these as asynchronous events. </p>
   </div>
   <div class="column" id="column2" style="background-color:transparent;"> 
-   <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true" alt="brightly lit laptop screen">
+   <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true" size="50%" alt="brightly lit laptop screen">
   </div>
 </div>
 </body>
 
- <body>
-<hr size="7" noshade color="#7f4cf3">
+<body>
+<hr size="3" noshade color="#7f4cf3" width="60%">
 </body>
 
-<h4 id="ActiveEventExamples">Active Virtual Event Examples</h4> 
+<h3 id="ActiveEventExamples">Active Virtual Event Examples</h3> 
 
-<h5 id="VirtualPresentations">Virtual Presentations <em>(Livestream)</em></h5>
+<h4 id="VirtualPresentations">Virtual Presentations <em>(Livestream)</em></h4>
 
 <p>Perhaps the simplest of the virtual options, live streaming is probably the most accessible and usable way you can create an event online. Think of this as a lecture, with 1 or 2 people taking and the audience listening. With various free streaming platforms (YouTube Live, Twitch, Mixer), you can host a live presentation or speaker to a viewing audience online.<br><br>
 If you want to create a more interactive presenting experience, where the participants can contribute beyond live-chat, you can explore presentation options such as Webex, Google Video Hangouts, or other video chat options. These work best with <strong>large</strong> crowds (>30 participants).</p>
 
 <div align="center"> <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Presenting%20on%20Quantum%20with%20Whiteboard.jpg?raw=true" alt="presenter in front of white board"> </div>
 
-<h5 id="Meetups">Meetups</h5>
+<h4 id="Meetups">Meetups</h4>
 
 <p>The word “meetup” implies meeting up - but it doesn’t imply that you cannot do it in a virtual space. A meetup is a group connection where everyone is given an equal voice. Connecting via webcams has become more accessible than ever. You can catch up, have a viewing party, enjoy a happy hour, and whatever else you think of! Virtual hangouts can be exciting and even keep you connected with long-distance colleagues. These work best with <strong>small - medium</strong> crowds (3 - 20 participants).</p>
 
-<h5 id="ReadingGroups">Reading Groups</h5>
+<h4 id="ReadingGroups">Reading Groups</h4>
 
 <p>Some Qiskitters get together over Slack or WebEx and host reading groups of different quantum research papers or chapters in the online qiskit textbook. This is typically followed by a Q&A with either the author, or an industry expert on the topic. These work best in an environment where everyone can share their thoughts and opinions openly. We recommend <strong>small</strong> groups of 3 - 10 participants.</p> 
 
-<h5 id="MeetInGame">Meet in a Game</h5>
+<h4 id="MeetInGame">Meet in a Game</h4>
 
 <p>Between the portability of the Nintendo Switch, the huge boom of games available on PC, and every other console available, meeting up inside a game world is now much more reality than the days of Tron. Some qiskitters met up in Animal Crossing recently, and even created some in-game swag items. We recommend Minecraft, Animal Crossing, or anywhere else you can show off your creativity and build the community (and friendships!).</p>
 
@@ -180,35 +179,35 @@ If you want to create a more interactive presenting experience, where the partic
    <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/animal%20crossing%20mod.jpg?raw=true" alt="animal crossing mod">
   </div>
  <body>
-<hr size="7" noshade color="#7f4cf3">
+<hr size="3" noshade color="#7f4cf3" width="60%">
 </body>
 
-<h5 id="Hackathons">Hackathons</h5>
+<h4 id="Hackathons">Hackathons</h4>
 
 <p>Hackathons can come in many forms, in many places, and the virtual space is no exception. Whether it’s an ongoing challenge, a problem-focused collaboration, or a live competition - hackathons can be hosted virtually through many different spaces. For in depth hackathon guidelines both inside and outside of the virtual space, you can download it <a href="https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/University%20Hackathon%20Guide.pdf">HERE</a>.</p> 
 
  <body>
-<hr size="7" noshade color="#7f4cf3">
+<hr size="3" noshade color="#7f4cf3" width="60%">
 </body>
 
-<h4 id="PassiveEventExamples">Passive Virtual Event Examples</h4>
+<h3 id="PassiveEventExamples">Passive Virtual Event Examples</h3>
 
-<h5 id="CollaborateOnAProject">Collaborate on a Project</h5>
+<h4 id="CollaborateOnAProject">Collaborate on a Project</h4>
 
 <p>Tools like GitHub make it a cinch for teams spread out to collaborate on a project together. Many members of the Qiskit Advocate group have utilized this approach to add contributions to the qiskit repo, or to add other valuable insights to the community at large.</p>
 
-<h5 id="BugHunting">Bug Hunting</h5>
+<h4 id="BugHunting">Bug Hunting</h4>
 
 <p>No, this isn’t another Animal Crossing reference. You can organize a group to look at a specific codebase or section of a project and go hunting for bugs within it. Using Github is especially useful to do this. Some organizers set up prizes for whoever finds and fixes as the most bugs within a certain time frame.</p>
 
 <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Quantum%20programmed%20game%20device.jpg?raw=true" alt="programmed game device flashing red square lights">
 
-<h5 id="Scavenger Hunt">Scavenger Hunt</h5>
+<h4 id="Scavenger Hunt">Scavenger Hunt</h4>
 
 <p>Exploring a new concept comes with many different steps or focus areas. Setting up a digital scavenger hunt is an engaging way to look at a large collection of items. You can assign different aspects with unique point values, and ask for pictures or confirmation of sorts. There are a few websites and apps that have been created specifically to host online scavenger hunts.</p>
 
  <body>
-<hr size="7" noshade color="#7f4cf3">
+<hr size="3" noshade color="#7f4cf3" width="60%">
 </body>
 
 <p>As always, if you are interested in hosting any type of virtual event, don’t hesitate to reach out to the Community Team! We’re here to help you create exciting and enjoyable experiences, so make sure and email us at xxxxxx!</p> <br>
@@ -224,51 +223,51 @@ There are many great tools and platforms available to help bridge that planning 
 <p>Virtual or not, the Qiskit Community Team is also available as a resource in creating, planning, and executing an event – so don’t hesitate to email if you have any general or more specific questions!<br><br>
 Regardless of how you are managing the event, you will want to make sure and have the following predefined and finalized prior to any public-facing communications (and most certainly prior to the event start date):</p>
 
-<h4>Clearly Identified Team Roles</h4>
+<h3>Clearly Identified Team Roles</h3>
 <ul>
 <li>Each component within an event should have a clear lead, and all team members should be aware of “Who To” go to for any contributions or questions</li>
 <li>Examples of team roles: Moderator, Emcee, Coach, Mentor, Catering, Room set up, Clean up</li>
 <li>While some team roles may be supported by multiple people – the general best practice is to make sure and designate a clear lead individual for each area</li>
 </ul>
 
-<h4>Event Schedule & Agenda</h4>
+<h3>Event Schedule & Agenda</h3>
 <ul>
 <li>Make sure and clearly identify daily start and end times (and don’t forget to include the time zone!)</li>
 <li>If there are multiple platforms or resources being used, make sure the agenda reflects when you may be alternating from one to the other – everyone should know where they need to be and at what the time</li>
 <li>If there are any event-specific benchmarks throughout the event, make sure they are clearly communicated in your agenda for all participants and team-members</li>
 </ul>
 
-<h4>Registration</h4>
+<h3>Registration</h3>
 <em>(Optional for less formal events or open-ended invitations)</em>
 <p>We suggest you try using Airtable for registration and tracking participants. Here’s a <a href="https://airtable.com/invite/l?inviteId=invcP2PJDeoCdHKjO&inviteToken=602fa0bbe9e04ec930d77d74f30548aac0d80bf7d42fd0b0421b2105fce85378">Sample</a>.</p>
 
-<h4>Code of Conduct</h4>
+<h3>Code of Conduct</h3>
 <em>(encouraged for any/all events)</em>
 <p>Here’s <a href="https://drive.google.com/open?id=15mnpIQ9n4m3FUCSjpuH_PbnG7HltHQV8">IBM Quantum’s Code of Conduct</a> that you can use for your event.</p>
 
-<h4>Communication & Promotion Plan</h4>
+<h3>Communication & Promotion Plan</h3>
 <ul>
 <li>Promotion and communications are critical when it comes to making sure people are aware your event is going on, and how they may be able to connect with it or join. Make sure you give yourself several weeks for pre-event promotion!</li>
 <li>Identify what channels you are using (Examples: Slack, Twitter, Bulletin Board, Forum Announcement) to do your promotions and outreach</li>
 <li>Identify the dates or general time frames when you would like to announce the event, if/when any pre-work will be recommended or required for participation, or any important updates or engagements you may have with participants (and observers from home) leading up to the event.</li>
 </ul>
 
-<h4>Communication Method</h4>
+<h3>Communication Method</h3>
 <ul>
 <li>For the event itself, you want to make sure and have a system in place to communicate with all participants for any important announcements, engagements, benchmark reminders, and what have you.</li>
 <li>Generally speaking, you will want to have one central location for all communications during the event. The Qiskit Community Team primarily uses Slack for these types of communications, but you can also explore other options that may be a better fit for your group. Whether it’s a forum, Discord, or a good old-fashioned mass-group chat on Google Hangouts or Facebook Chat – you want to make sure you have all your participants' eyes (and ears) in one place.</li>
 <li>Email is NOT recommended for these communications, and can often result in unwieldy delays or logistical confusion (especially in the face of ever-vigilant spam and quarantine filters).</li>
 </ul>
 
-<h4 id="VirtualTools&Platforms">Virtual Tools & Platforms</h4>
+<h3 id="VirtualTools&Platforms">Virtual Tools & Platforms</h3>
 <ul>
 <li>Instead of finding your “venue” and reserving your “space” - you want to find the platform that works for you, and make sure it’s all set up to your desired “floorplan” so that your virtual event flows just as smoothly as it would in person.</li>
 <li>Depending on your event, you may want to use different tools or combine different platforms in creative ways – which is highly encouraged! There are many many options available to host a virtual event within, and while some may meet your specific needs without meeting others, there is no rule that says you can’t use more than one!</li>
 <li><strong>IMPORTANT!</strong> Whichever platform(s) you end up using – not only should you make sure your team and you take some time to be familiar with the system (we recommend an internal dry-run within the team – just to work out any planning kinks). You should also be making sure that every participant knows where they need to be and when – so make sure and make that explicit and clear, and share with participants at least several days prior to the event start day so they can also take their own opportunity to become familiar with it as well.</li>
 </ul>
 
-<h1 id="RecommendedTools">Recommended Tools</h1>
-<h2>from the Qiskit Community Team</h2>
+<h1 id="RecommendedTools">Recommended Tools
+from the Qiskit Community Team</h1>
 
 <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/desk%20filled%20with%20laptops%20and%20electronics.jpg?raw=true" alt="ltable filled with electronic devices and laptops">
 
@@ -277,10 +276,10 @@ When UC London put together their (in-person) hackathon, they created one docume
 With that introduction, and no further ado, here is the “short list” of the options we recommend (in order of how highly we recommend them!</p>
 
  <body>
-<hr size="7" noshade color="#7f4cf3">
+<hr size="3" noshade color="#7f4cf3" width="60%">
 </body>
 
-<h4>For Live-Stream Style Presentations</h4>
+<h3>For Live-Stream Style Presentations</h3>
 <ul> 
 <li>YouTube Live</li>
 <li>Twitch</li>
@@ -290,7 +289,7 @@ With that introduction, and no further ado, here is the “short list” of the 
 <p><em>General capabilities: Have the ability to live-stream (or host pre-recorded) content or presentations to an audience with minmal-to-no gatekeeping. Collaboration and communications restricted to text-based chat.</em><br><br>
 NOTE: Due to concerns around privacy, hacking, FBI warnings, and “zoombombing” we do not suggest using Zoom as a tool for your event.</p>
 
-<h4>For Collaboration Style Presentations</h4>
+<h3>For Collaboration Style Presentations</h3>
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -333,7 +332,7 @@ NOTE: Due to concerns around privacy, hacking, FBI warnings, and “zoombombing�
 </div>
 </body>
 
-<h4>For Team Collaboration & Live Event Communications</h4>
+<h3>For Team Collaboration & Live Event Communications</h3>
 <ul> 
 <li>Slack <em>(ask the Qiskit Community Team for your own channel in the @Qiskit Slack!)</em> </li>
 <li>Discord</li>
@@ -343,7 +342,7 @@ NOTE: Due to concerns around privacy, hacking, FBI warnings, and “zoombombing�
 <em><p>General capabilities: To host communications between various groups, where particpants can collaborate together privately from other teams, mentors and admins can support questions, and hack-work can be completed without the disruption of hosting a live stream or series of video chats or phone calls to stay connected. Essentially, where all those productive and collaborative conversations are taking place.</p> 
 </em>
 
-<h4>For Hackathon Logistics & Event Platform</h4>
+<h3>For Hackathon Logistics & Event Platform</h3>
 <ul> 
 <li>DevPost</li>
 <li>HackerEarth</li>
