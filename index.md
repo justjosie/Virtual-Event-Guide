@@ -118,10 +118,10 @@ Between the portability of the Nintendo Switch, the huge boom of games available
 <body>
 <div class="container">
   <div class="column" id="column1" style="background-color:transparent;">
-      <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20QR.png?raw=true)" alt="qiskit qr">
+      <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20QR.png?raw=true" alt="qiskit qr">
   </div>
   <div class="column" id="column2" style="background-color:transparent;"> 
-   <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/animal%20crossing%20mod.jpg?raw=true)" alt="animal crossing mod">
+   <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/animal%20crossing%20mod.jpg?raw=true" alt="animal crossing mod">
   </div>
 </div>
 </body>
@@ -154,7 +154,7 @@ No, this isn’t another Animal Crossing reference. You can organize a group to 
 Exploring a new concept comes with many different steps or focus areas. Setting up a digital scavenger hunt is an engaging way to look at a large collection of items. You can assign different aspects with unique point values, and ask for pictures or confirmation of sorts. There are a few websites and apps that have been created specifically to host online scavenger hunts.
 
 <div markdown="1">
-<body> 
+<body>
 <hr size="15" noshade>
 </body>
 </div>
@@ -189,6 +189,7 @@ Regardless of how you are managing the event, you will want to make sure and hav
 
 #### Registration
 _(Optional for less formal events or open-ended invitations)_
+We suggest you try using Airtable for registration and tracking participants. Here’s a [sample](https://airtable.com/invite/l?inviteId=invcP2PJDeoCdHKjO&inviteToken=602fa0bbe9e04ec930d77d74f30548aac0d80bf7d42fd0b0421b2105fce85378).
 
 #### Code of Conduct
 Here’s [IBM Quantum’s Code of Conduct](https://drive.google.com/open?id=15mnpIQ9n4m3FUCSjpuH_PbnG7HltHQV8) that you can use for your event.
@@ -214,12 +215,72 @@ Here’s [IBM Quantum’s Code of Conduct](https://drive.google.com/open?id=15mn
 
 As mentioned above, the Qiskit team here at IBM has been working hard to identify what resources and platforms we think would be the optimum fits for Qiskit and Quantum Hackathons – and based on that, we have some recommended tools listed below. This is by no means a restrictive list, and every team is highly encouraged to see what tools are available and choose the one that fits best for whatever specific event is planned.
 
+ 
+When UC London put together their (in-person) hackathon, they created one document with details like location, schedule, and the code of conduct all together. That’s a really effective way to communicate the important information all at once. [Look it over, and feel free to use it as a template](https://drive.google.com/open?id=1QoORpbxEVAmN_sIpzxgHwno0vmy4Iih9).
+ 
+With that introduction, and no further ado, here is the “short list” of the options we recommend (in order of how highly we recommend them!
 
 <div markdown="1">
 <body>
 <hr size="15" noshade>
 </body>
 </div>
+
+#### For Live-Stream Style Presentations/Engagements
+* YouTube Live
+* Twitch
+* Webex
+ 
+_General capabilities: Have the ability to live-stream (or host pre-recorded) content or presentations to an audience with minmal-to-no gatekeeping. Collaboration and communications restricted to text-based chat._
+ 
+NOTE: Due to concerns around privacy, hacking, FBI warnings, and “zoombombing” we do not suggest using Zoom as a tool for your event.
+
+For Collaboration/Open Forum Style Presentations/Engagements
+<div markdown="1">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+ img{
+      max-width: 100%;
+      max-height: auto;
+      }
+* {
+  box-sizing: border-box;
+}
+
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 0px;
+  height: 300px; 
+}
+
+
+.row: {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="column" id="column1" style="background-color:transparent;">
+      <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/working%20on%20laptop%20with%20webex%20on%20cell%20phone.jpg?raw=true" alt="qiskit qr">
+  </div>
+  <div class="column" id="column2" style="background-color:transparent;"> 
+   <p> <ul> <li> Crowdcast </li>
+   <li>Webex</li> </ul>
+ <i> General capabilities: Have the ability to host participants and attendees (gatekeeping optional) to host a content session/presentation that includes the capacity for participants to converse face-to-face with the presenter, or make contributions of their own.</i></p
+  </div>
+</div>
+</body>
+</div>
+
+
+
+
 
 ### What are some virtual event options? 
 One of the things we’ve discovered is that hosting pre-hackathon or non-hackathon events is extremely useful for everyone across the board. 
