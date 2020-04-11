@@ -17,11 +17,3 @@ aux_links:
     - "//github.com/justjosie/virtual-event-guide/docs.md"
     
 color_scheme: nil
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
