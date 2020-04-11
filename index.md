@@ -123,8 +123,8 @@ One good principle to always follow – <strong>the most successful events have 
 </div>
 </body>
 
-<body>
-<hr size="15" noshade>
+ <body>
+<hr size="7" noshade color="#7f4cf3">
 </body>
 
 <h4 id="ActiveEventExamples">Active Virtual Event Examples</h4> 
@@ -179,16 +179,16 @@ If you want to create a more interactive presenting experience, where the partic
   <div class="column" id="column2" style="background-color:transparent;"> 
    <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/animal%20crossing%20mod.jpg?raw=true" alt="animal crossing mod">
   </div>
-<body>
-<hr size="15" noshade>
+ <body>
+<hr size="7" noshade color="#7f4cf3">
 </body>
 
 <h5 id="Hackathons">Hackathons</h5>
 
 <p>Hackathons can come in many forms, in many places, and the virtual space is no exception. Whether it’s an ongoing challenge, a problem-focused collaboration, or a live competition - hackathons can be hosted virtually through many different spaces. For in depth hackathon guidelines both inside and outside of the virtual space, you can download it <a href="https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/University%20Hackathon%20Guide.pdf">HERE</a>.</p> 
 
-<body> 
-<hr size="15" noshade>
+ <body>
+<hr size="7" noshade color="#7f4cf3">
 </body>
 
 <h4 id="PassiveEventExamples">Passive Virtual Event Examples</h4>
@@ -207,8 +207,8 @@ If you want to create a more interactive presenting experience, where the partic
 
 <p>Exploring a new concept comes with many different steps or focus areas. Setting up a digital scavenger hunt is an engaging way to look at a large collection of items. You can assign different aspects with unique point values, and ask for pictures or confirmation of sorts. There are a few websites and apps that have been created specifically to host online scavenger hunts.</p>
 
-<body>
-<hr size="15" noshade>
+ <body>
+<hr size="7" noshade color="#7f4cf3">
 </body>
 
 <p>As always, if you are interested in hosting any type of virtual event, don’t hesitate to reach out to the Community Team! We’re here to help you create exciting and enjoyable experiences, so make sure and email us at xxxxxx!</p> <br>
@@ -276,8 +276,8 @@ Regardless of how you are managing the event, you will want to make sure and hav
 When UC London put together their (in-person) hackathon, they created one document with details like location, schedule, and the code of conduct all together. That’s a really effective way to communicate the important information all at once. <a href="https://drive.google.com/open?id=1QoORpbxEVAmN_sIpzxgHwno0vmy4Iih9">Look it over, and feel free to use it as a template</a>.<br><br>
 With that introduction, and no further ado, here is the “short list” of the options we recommend (in order of how highly we recommend them!</p>
 
-<body>
-<hr size="15" noshade>
+ <body>
+<hr size="7" noshade color="#7f4cf3">
 </body>
 
 <h4>For Live-Stream Style Presentations</h4>
