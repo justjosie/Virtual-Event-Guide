@@ -4,3 +4,7 @@ description: Take your events to the virtual space with tips and tricks from the
 search_enabled: false
 heading_anchors: true
 color_scheme: nil
+
+layout: default
+title: Customization
+nav_order: 4
