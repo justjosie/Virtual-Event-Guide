@@ -4,8 +4,14 @@ title: Navigation
 navigation: 1
 ---
 
+{: .no_toc }
+
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+---
 
 <div markdown="1">
 
