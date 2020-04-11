@@ -1,11 +1,5 @@
-remote_theme: pmarsceill/just-the-docs
-
-markdown: kramdown
-
-search_enabled: false
 
 heading_anchors: true
 
 title: Qiskit Virtual Event Planning Guide
     
-color_scheme: nil
