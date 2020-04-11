@@ -1,13 +1,67 @@
----
-layout: default
-title: <body>
-<ul id=“HelloQiskitters”>
-<li> <a href="#Section1Overview" id="markdown-toc-our-markdown-guide">Section 1: Overview</a> </li>
-<li> <a href="#IntrotoVirtualEventOpportunities" id="Section1Overview">Our Markdown Guide</a> </li>
-</ul>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: black;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.sidebar a {
+  display: block;
+  color: white;
+  padding: 16px;
+  text-decoration: none;
+}
  
-nav_order: 1
----
+.sidebar a.active {
+  background-color: #7f4cf3;
+  color: white;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+  <a class="active" href="#HelloQiskitters">Hello Qiskitters!</a>
+ <a href="#HelloQiskitters">Hello Qiskitters!</a>
+<a href="#Section1Overview">Section 1: Overview</a>
+<a href="#IntrotoVirtualEventOpportunities">Intro to Virtual Event Opportunities</a>
+<a href="#ActiveEventExamples">Active Virtual Event Examples</a>
+<a href="#PassiveEventExamples">Passive Virtual Event Examples</a>
+<a href="#VirtualEventPlanning101">Virtual Event Planning 101</a>
+<a href="#VirtualTools&Platforms">Virtual Tools & Platforms</a>
+<a href="#RecommendedTools">Recommended Tools</a>
+<a href="#BecomingQuantumReady">Section 3: Becoming Quantum Ready</a>
+<a href="#HacakthonProjects">Section 4: Hackathon Projects</a>
+<a href="#TLDR">TL;DR</a>
+<a href="#MarketingAssets&Downloads">Marketing Assets & Downloads</a>
+
+</div>
+
+<div class="content">
 
 <div markdown="1">
 
@@ -389,3 +443,6 @@ There are many different kinds of virtual events, some of which are active and s
 <a href="https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Digital%20Events%20PowerPoint%20Template.pptx">Download the Virtual Event Powerpoint Template Here!</a>
 </strong>
 
+</div>
+
+</body>
