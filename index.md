@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "A resource guide for anyone interested in hosting their own Quantum virtual events."
+permalink: /
+---
+
 <div markdown="1">
 
 <body>
