@@ -1,16 +1,10 @@
 ---
 layout: page
-title: Navigation
+title: Test
 navigation: 1
 ---
-
-{: .no_toc }
-
-{: .no_toc .text-delta }
-
-1. TOC
+- TOC
 {:toc}
-
 ---
 
 <div markdown="1">
