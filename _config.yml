@@ -1,9 +1,11 @@
 remote_theme: pmarsceill/just-the-docs 
-description: Take your events to the virtual space with tips and tricks from the Qiskit Community Team!
-search_enabled: false
-heading_anchors: true
-color_scheme: nil
 
 layout: default
+
 title: Qiskit Virtual Event Planning Guide
-sidebar: "_docs/navigation_structure.md"
+
+search_enabled: false
+
+heading_anchors: true
+
+color_scheme: nil
