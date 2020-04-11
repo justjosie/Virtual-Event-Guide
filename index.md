@@ -1,4 +1,8 @@
 <head>
+<html lang="en">
+<head>
+<title>Qiskit Virtual Event Planning Guide</title>
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box;}
@@ -11,7 +15,7 @@ body {
 .header {
   overflow: hidden;
   background-color: #7f4cf3;
-  padding: 40px 10px;
+  padding: 18px 10px;
 }
 
 .header a {
@@ -20,19 +24,14 @@ body {
   text-align: center;
   padding: 10px;
   text-decoration: none;
-  font-size: 18px; 
+  font-size: 14px; 
   line-height: 25px;
   border-radius: 4px;
 }
 
 .header a.logo {
-  font-size: 25px;
+  font-size: 32px;
   font-weight: bold;
-}
-
-.header a:hover {
-  background-color: #ddd;
-  color: black;
 }
 
 .header a.active {
@@ -45,6 +44,26 @@ body {
 }
 
 }
+
+.navbar {
+  overflow: hidden;
+  background-color: white;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.navbar a.right {
+  float: right;
+}
+  
 </style>
 </head>
 <body>
@@ -57,13 +76,19 @@ body {
     <a href="#MarketingAssets&Downloads">Downloads</a>
     <a href="#TLDR">Contact Us</a>
   </div>
+  
+  <div class="navbar">
+  <a>Plan your own virtual event today with support from the Qiskit Community Team!</a>
+</div>
 </div>
 
 <div style="padding-left:20px">
   
 </div>
-
 </body>
+
+
+
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -125,7 +150,7 @@ div.content {
   <a href="#MarketingAssets&Downloads">Marketing Assets & Downloads</a>
 </div>
 
-<div class="content">
+  <div class="content">
 
 <div markdown="1">
 
@@ -505,4 +530,5 @@ There are many different kinds of virtual events, some of which are active and s
 <a href="https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Digital%20Events%20PowerPoint%20Template.pptx">Download the Virtual Event Powerpoint Template Here!</a>
 </strong>
 
+</div>
 </div>
