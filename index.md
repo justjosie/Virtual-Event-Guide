@@ -1,7 +1,4 @@
 ---
-layout: page
-title: Test 2
-navigation: 1
 
 ## On this page
 {:.no_toc}
