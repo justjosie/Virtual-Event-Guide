@@ -6,7 +6,4 @@ color_scheme: nil
 
 layout: default
 title: Qiskit Virtual Event Planning Guide
-nav_order: 1
-
-#Navigation Structure
-{: .no_toc }
+nav_order: 0
