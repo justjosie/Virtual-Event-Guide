@@ -89,10 +89,9 @@ One good principle to always follow – <strong>the most successful events have 
 <h3 id="WhatAreVirtualEventOptions">What are some virtual event options?</h3>
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
  img{
-      max-width: 100%;
+      max-width: 330px;
       max-height: auto;
       }
 * {
