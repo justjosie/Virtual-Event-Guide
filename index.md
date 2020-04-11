@@ -70,7 +70,7 @@ Virtual events are online events where people interact in a virtual environment 
   </div>
 </div>
 <body>
-<hr size="15p" width="72%" align="center" color="black">
+<hr size="15" noshade>
 </body>
 </body>
 </div>
@@ -146,7 +146,7 @@ Hackathons can come in many forms, in many places, and the virtual space is no e
 
 <div markdown="1">
 <body> 
-<hr size="5px" width="72%" align="center" color="black">
+<hr size="15" noshade>
 </body>
 </div>
 
@@ -169,7 +169,7 @@ Exploring a new concept comes with many different steps or focus areas. Setting 
 
 <div markdown="1">
 <body> 
-<hr size="5px" width="72%" align="center" color="black">
+<hr size="15" noshade>
 </body>
 </div>
 
@@ -204,8 +204,7 @@ Regardless of how you are managing the event, you will want to make sure and hav
 #### Registration
 _(Optional for less formal events or open-ended invitations)_
 
-#### Code of Conduct 
-_(encouraged for any/all events)_
+#### Code of Conduct
 Here’s [IBM Quantum’s Code of Conduct](https://drive.google.com/open?id=15mnpIQ9n4m3FUCSjpuH_PbnG7HltHQV8) that you can use for your event.
 
 #### Communication/Promotion Plan
@@ -229,6 +228,12 @@ Here’s [IBM Quantum’s Code of Conduct](https://drive.google.com/open?id=15mn
 
 As mentioned above, the Qiskit team here at IBM has been working hard to identify what resources and platforms we think would be the optimum fits for Qiskit and Quantum Hackathons – and based on that, we have some recommended tools listed below. This is by no means a restrictive list, and every team is highly encouraged to see what tools are available and choose the one that fits best for whatever specific event is planned.
 
+
+<div markdown="1">
+<body>
+<hr size="15" noshade>
+</body>
+</div>
 
 ### What are some virtual event options? 
 One of the things we’ve discovered is that hosting pre-hackathon or non-hackathon events is extremely useful for everyone across the board. 
