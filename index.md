@@ -1,5 +1,5 @@
-![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true)
 <div markdown="1">
+<img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true" alt="laptop with quantum and qiskit stickers">
 
 <h1>Hello Qiskitters!</h1>
 
@@ -10,7 +10,7 @@ If you only have a few minutes to read this document, skip to the TL;DR section 
 
 <p>This guide provides relevant resources and guidance for your event. We have included IBM-specific ideas and guidance to help fill out your event and make it as successful as possible.<br><br>
 The term “your event” is used on purpose. Although IBM is more than happy to sponsor or support, at the end of the day this event is owned by you and your group of collaborators. We are here to help and support you along the way. As a qiskit-themed event, there are a few rules that we’d like to see put into place. If your group is on board, we may be able to send swag, or even have IBM Researchers attend.<br><br>
-One good principle to always follow – **the most successful events have a theme**. Gaming, chemistry, quantum 101, exploring new algorithms, and adapting classical approaches are all themes we’ve seen before. You can, and should, adapt one of those for your event, or create something entirely new.</p>
+One good principle to always follow – <strong>the most successful events have a theme</strong>. Gaming, chemistry, quantum 101, exploring new algorithms, and adapting classical approaches are all themes we’ve seen before. You can, and should, adapt one of those for your event, or create something entirely new.</p>
 
 </div>
 
@@ -96,20 +96,11 @@ If you want to create a more interactive presenting experience, where the partic
 * {
   box-sizing: border-box;
 }
-
-
 .column {
   float: left;
   width: 50%;
   padding: 0px;
   height: 300px; 
-}
-
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
 }
 </style>
 </head>
