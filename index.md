@@ -359,10 +359,10 @@ Use these collections to see the wide range of projects that you can use as jump
 <h2>TL;DR</h2>
 <ul> 
 <li>The Qiskit Community team is always available to answer any questions over Slack (link) or email at hello@qiskit.camp
-There are many different kinds of virtual events, some of which are active and some of which are passive. Depending on what you want to do - examples and options of both types of events are available!</li> <br> <br>
-<li>When transitioning from Live Event planning to Virtual Event planning - the basic checklists and principles remain the same. Remember to increase your communication, and plan your promotions to reach your potential participants (wherever they may be).</li> <br> <br>
-<li>There are more options than you think for tools and platforms that are available to support virtual events. While the IBM Qiskit Community Team has compiled a list of recommendations, they are just that. Whatever tool you end up using, you will want to make sure to explore and test-run the tools functionality before the event itself goes live.</li> <br> <br>
-<li>In preparation for a Quantum Event - are you sure your participants are Quantum Ready? Engaging with event participants prior to the event, with online resources already available and ready to use, you can make sure that everyone participating is on the Quantum Level and has a more prepared and enjoyable experience.</li> <br> <br>
+There are many different kinds of virtual events, some of which are active and some of which are passive. Depending on what you want to do - examples and options of both types of events are available!</li> <br> 
+<li>When transitioning from Live Event planning to Virtual Event planning - the basic checklists and principles remain the same. Remember to increase your communication, and plan your promotions to reach your potential participants (wherever they may be).</li> <br>
+<li>There are more options than you think for tools and platforms that are available to support virtual events. While the IBM Qiskit Community Team has compiled a list of recommendations, they are just that. Whatever tool you end up using, you will want to make sure to explore and test-run the tools functionality before the event itself goes live.</li> <br> 
+<li>In preparation for a Quantum Event - are you sure your participants are Quantum Ready? Engaging with event participants prior to the event, with online resources already available and ready to use, you can make sure that everyone participating is on the Quantum Level and has a more prepared and enjoyable experience.</li> <br>
 </ul> 
 
 <h1>Marketing Assets & Downloads</h1>
