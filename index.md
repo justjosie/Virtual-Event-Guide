@@ -235,7 +235,8 @@ _General capabilities: Have the ability to live-stream (or host pre-recorded) co
  
 NOTE: Due to concerns around privacy, hacking, FBI warnings, and “zoombombing” we do not suggest using Zoom as a tool for your event.
 
-For Collaboration/Open Forum Style Presentations/Engagements
+#### For Collaboration/Open Forum Style Presentations/Engagements
+
 <div markdown="1">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -267,12 +268,15 @@ For Collaboration/Open Forum Style Presentations/Engagements
 <body>
 <div class="container">
   <div class="column" id="column1" style="background-color:transparent;">
-      <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/working%20on%20laptop%20with%20webex%20on%20cell%20phone.jpg?raw=true" alt="qiskit qr">
+      <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/working%20on%20laptop%20with%20webex%20on%20cell%20phone.jpg?raw=true" alt="working on laptop with video conference on cell phone">
   </div>
   <div class="column" id="column2" style="background-color:transparent;"> 
-   <p> <ul> <li> Crowdcast </li>
-   <li>Webex</li> </ul>
- <i> General capabilities: Have the ability to host participants and attendees (gatekeeping optional) to host a content session/presentation that includes the capacity for participants to converse face-to-face with the presenter, or make contributions of their own.</i></p
+   <p> 
+   <ul> 
+    <li>Crowdcast</li>
+    <li>Webex</li> 
+   </ul>
+ <i> General capabilities: Have the ability to host participants and attendees (gatekeeping optional) to host a content session/presentation that includes the capacity for participants to converse face-to-face with the presenter, or make contributions of their own.</i> </p>
   </div>
 </div>
 </body>
