@@ -56,9 +56,10 @@ One good principle to always follow – <strong>the most successful events have 
    <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/typing%20on%20bright%20laptop.jpg?raw=true" alt="brightly lit laptop screen">
   </div>
 </div>
+</body>
+
 <body>
 <hr size="15" noshade>
-</body>
 </body>
 
 <h4>Active Event Examples</h4> 
@@ -156,7 +157,7 @@ There are many great tools and platforms available to help bridge that planning 
 <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Crowdcast%20virtual%20event%20collaboration%20with%20phone%20tablet%20laptop%20on%20desk.jpg?raw=true" alt="webcast collaboration with phone tablet and laptop on desk">
 
 <p>Virtual or not, the Qiskit Community Team is also available as a resource in creating, planning, and executing an event – so don’t hesitate to email if you have any general or more specific questions!<br><br>
-Regardless of how you are managing the event, you will want to make sure and have the following predefined and finalized PRIOR to any public-facing communications (and most certainly prior to the event start date):</p>
+Regardless of how you are managing the event, you will want to make sure and have the following predefined and finalized prior to any public-facing communications (and most certainly prior to the event start date):</p>
 
 <h4>Clearly Identified Team Roles</h4>
 <ul>
@@ -165,7 +166,7 @@ Regardless of how you are managing the event, you will want to make sure and hav
 <li>While some team roles may be supported by multiple people – the general best practice is to make sure and designate a clear lead individual for each area</li>
 </ul>
 
-<h4>Event Schedule/Agenda</h4>
+<h4>Event Schedule & Agenda</h4>
 <ul>
 <li>Make sure and clearly identify daily start and end times (and don’t forget to include the time zone!)</li>
 <li>If there are multiple platforms or resources being used, make sure the agenda reflects when you may be alternating from one to the other – everyone should know where they need to be and at what the time</li>
@@ -180,7 +181,7 @@ Regardless of how you are managing the event, you will want to make sure and hav
 <em>(encouraged for any/all events)</em>
 <p>Here’s <a href="https://drive.google.com/open?id=15mnpIQ9n4m3FUCSjpuH_PbnG7HltHQV8">IBM Quantum’s Code of Conduct</a> that you can use for your event.</p>
 
-<h4>Communication/Promotion Plan</h4>
+<h4>Communication & Promotion Plan</h4>
 <ul>
 <li>Promotion and communications are critical when it comes to making sure people are aware your event is going on, and how they may be able to connect with it or join. Make sure you give yourself several weeks for pre-event promotion!</li>
 <li>Identify what channels you are using (Examples: Slack, Twitter, Bulletin Board, Forum Announcement) to do your promotions and outreach</li>
@@ -194,7 +195,7 @@ Regardless of how you are managing the event, you will want to make sure and hav
 <li>Email is NOT recommended for these communications, and can often result in unwieldy delays or logistical confusion (especially in the face of ever-vigilant spam and quarantine filters).</li>
 </ul>
 
-<h4>Virtual Tools/Platforms</h4>
+<h4>Virtual Tools & Platforms</h4>
 <ul>
 <li>Instead of finding your “venue” and reserving your “space” - you want to find the platform that works for you, and make sure it’s all set up to your desired “floorplan” so that your virtual event flows just as smoothly as it would in person.</li>
 <li>Depending on your event, you may want to use different tools or combine different platforms in creative ways – which is highly encouraged! There are many many options available to host a virtual event within, and while some may meet your specific needs without meeting others, there is no rule that says you can’t use more than one!</li>
@@ -214,7 +215,7 @@ With that introduction, and no further ado, here is the “short list” of the 
 <hr size="15" noshade>
 </body>
 
-<h4>For Live-Stream Style Presentations/Engagements</h4>
+<h4>For Live-Stream Style Presentations</h4>
 <ul> 
 <li>YouTube Live</li>
 <li>Twitch</li>
@@ -267,7 +268,7 @@ NOTE: Due to concerns around privacy, hacking, FBI warnings, and “zoombombing�
 </div>
 </body>
 
-<h4>For Team Breakouts, Collaboration, and Live Event Communications</h4>
+<h4>For Team Collaboration & Live Event Communications</h4>
 <ul> 
 <li>Slack <em>(ask the Qiskit Community Team for your own channel in the @Qiskit Slack!)</em> </li>
 <li>Discord</li>
@@ -277,7 +278,7 @@ NOTE: Due to concerns around privacy, hacking, FBI warnings, and “zoombombing�
 <em><p>General capabilities: To host communications between various groups, where particpants can collaborate together privately from other teams, mentors and admins can support questions, and hack-work can be completed without the disruption of hosting a live stream or series of video chats or phone calls to stay connected. Essentially, where all those productive and collaborative conversations are taking place.</p> 
 </em>
 
-<h4>For Hackathon Logistics/Event Platform</h4>
+<h4>For Hackathon Logistics & Event Platform</h4>
 <ul> 
 <li>DevPost</li>
 <li>HackerEarth</li>
@@ -288,7 +289,7 @@ NOTE: Due to concerns around privacy, hacking, FBI warnings, and “zoombombing�
 
 <body>
 <div class="img-container">
- <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/think%20outside%20the%20box.jpg?raw=true" alt="think outside the box"> 
+ <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/think%20outside%20the%20box.jpg?raw=true" alt="think outside the box" width="456" height="692"> 
  </div>
  </body>
 
@@ -357,7 +358,7 @@ There are many different kinds of virtual events, some of which are active and s
 </ul> 
 
 <h1>Marketing Assets & Downloads</h1>
-<br> <br>
+
 <strong><a href="https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Qiskit%20Logos.zip">Download the Qiskit Logos Assets Here!</a>
 <br> <br>
 <a href="https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Qiskit%20Community%20Photos.zip">Download Qiskit Community Photos Here!</a>
