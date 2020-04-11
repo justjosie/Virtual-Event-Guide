@@ -1,10 +1,64 @@
----
-layout: default
-title: Home
-nav_order: 1
-description: "A resource guide for anyone interested in hosting their own Quantum virtual events."
-permalink: /
----
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 400px;
+  background-color: black;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.sidebar a {
+  display: block;
+  color: white;
+  padding: 16px;
+  text-decoration: none;
+}
+ 
+.sidebar a.active {
+  background-color: #7f4cf3;
+  color: #7f4cf3;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #7f4cf3;
+  color: white;
+}
+
+div.content {
+  margin-left: 400px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+  <a href="#HelloQiskitters">News</a>
+  <a href="#Section1Overview">Hello Qiskitters!</a>
+  <a href="#IntrotoVirtualEventOpportunities">Intro to Virtual Event Opportunities</a>
+  <a href="#ActiveEventExamples">Active Virtual Event Examples</a>
+  <a href="#PassiveEventExamples">Passive Virtual Event Examples</a>
+  <a href="#VirtualEventPlanning101">Virtual Event Planning 101</a>
+  <a href="#VirtualTools&Platforms">Virtual Tools & Platforms</a>
+  <a href="#RecommendedTools">Recommended Tools</a>
+  <a href="#BecomingQuantumReady">Section 3: Becoming Quantum Ready</a>
+  <a href="#HacakthonProjects">Section 4: Hackathon Projects</a>
+  <a href="#TLDR">TL;DR</a>
+  <a href="#MarketingAssets&Downloads">Marketing Assets & Downloads</a>
+</div>
+
+<div class="content">
 
 <div markdown="1">
 
@@ -383,3 +437,5 @@ There are many different kinds of virtual events, some of which are active and s
 <br> <br>
 <a href="https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Digital%20Events%20PowerPoint%20Template.pptx">Download the Virtual Event Powerpoint Template Here!</a>
 </strong>
+
+</div>
