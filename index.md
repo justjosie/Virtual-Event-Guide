@@ -296,20 +296,6 @@ _General capabilities: To host communications between various groups, where part
 _General capabilities: Host the hackathon event in a central location, support team formation, live announcements and communications – in addition to (optional) registration, team formation, and project submission processes for your hackathon._
 
 <div markdown="1">
-<head>
-<style>
-
-img {
-  width: 30%;
-}
-
-.img-container {
-    Text align: center;
-}
-
-</style>
- 
-</head>
 <body>
 <div class="img-container">
  <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/think%20outside%20the%20box.jpg?raw=true" alt="think outside the box"> 
