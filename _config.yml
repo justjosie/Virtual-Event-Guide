@@ -9,3 +9,5 @@ search_enabled: false
 heading_anchors: true
 
 color_scheme: nil
+
+nav: "_docs/navigation_structure.md"
