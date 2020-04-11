@@ -254,7 +254,7 @@ NOTE: Due to concerns around privacy, hacking, FBI warnings, and â€œzoombombingâ
 <body>
 <div class="container">
   <div class="column" id="column1" style="background-color:transparent;">
-      <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/working%20on%20laptop%20with%20webex%20on%20cell%20phone.jpg?raw=true" alt="working on laptop with video conference on cell phone" width="238" height="234">
+      <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/working%20on%20laptop%20with%20webex%20on%20cell%20phone.jpg?raw=true" alt="working on laptop with video conference on cell phone" width="268" height="263">
   </div>
   <div class="column" id="column2" style="background-color:transparent;"> 
    <p> 
@@ -341,6 +341,7 @@ Use these collections to see the wide range of projects that you can use as jump
 <ul> 
 <li><a href="https://github.com/iquhack/2020">MIT Hackathon</a></li>
 <li><a href="https://github.com/qiskit-community/qiskit-camp-africa-19/issues">South Africa Hackathon</a> </li> 
+</ul>
 </strong> 
 
 <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Quantum%20Project%20Demo%20on%20Laptop.jpg?raw=true" alt="lquantum project demo on laptop screen">
@@ -356,10 +357,10 @@ There are many different kinds of virtual events, some of which are active and s
 </ul> 
 
 <h1>Marketing Assets & Downloads</h1>
-
+<br> <br>
 <strong><a href="https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Qiskit%20Logos.zip">Download the Qiskit Logos Assets Here!</a>
-
+<br> <br>
 <a href="https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Qiskit%20Community%20Photos.zip">Download Qiskit Community Photos Here!</a>
-
+<br> <br>
 <a href="https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Digital%20Events%20PowerPoint%20Template.pptx">Download the Virtual Event Powerpoint Template Here!</a>
 </strong>
