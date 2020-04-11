@@ -1,9 +1,3 @@
----
-layout: default
-title: Hello Qiskitters!
-nav_order: 1
----
-
 <div markdown="1">
 
 <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true" alt="laptop with quantum and qiskit stickers">
@@ -12,16 +6,6 @@ nav_order: 1
 
 <p>This is the <strong> Qiskit Virtual Event Planning Guide</strong> This guide is meant as a companion for anyone looking to host a digital event, including resources, templates, and ideas. With that said, most things you’ll find here are <strong>suggestions</strong>. At the end of the day, you know your audience better than we do. We’re here to help you make it as successful as possible, whatever you chose to do.<br><br>
 If you only have a few minutes to read this document, skip to the TL;DR section at the end.</p>
-
-</div>
-
----
-layout: default
-title: Section 1: Overview
-nav_order: 2
----
-
-<div markdown="1">
 
 <h2 id="Section1Overview">Section 1: Overview</h2>
 
