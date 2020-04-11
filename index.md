@@ -34,25 +34,6 @@ body {
 .header-right {
   float: right;
 }
-
-.navbar {
-  overflow: hidden;
-  background-color: white;
-}
-
-.navbar a {
-  float: left;
-  display: block;
-  color: #ffffff;
-  text-align: center;
-  padding: 10px 10px;
-  text-decoration: none;
-  font-size: 16px;
-}
-
-.navbar a.right {
-  float: right;
-}
   
 .sidebar {
   margin: 0;
@@ -104,12 +85,6 @@ div.content {
     <a href="#TLDR">Contact Us</a>
   
   </div>
-  
-  <div class="navbar">
-  
-  <a>Plan your own virtual event today with support from the Qiskit Community Team!</a>
-  
-</div>
 
 </div>
 
