@@ -1,3 +1,27 @@
 remote_theme: pmarsceill/just-the-docs 
+
 title: Qiskit Virtual Event Planning Guide
+
 description: Take your events to the virtual space with tips and tricks from the Qiskit Community Team!
+
+logo: "_downloads/Photos/02_Qiskit Black on White.png"
+
+baseurl: "/virtual-event-guide"
+
+search_enabled: false
+
+heading_anchors: true
+
+color_scheme: nil
+
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/pmarsceill/just-the-docs"
+    
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
