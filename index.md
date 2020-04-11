@@ -1,29 +1,29 @@
 ![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true)
 <div markdown="1">
 
-# Hello Qiskitters!
+<h1>Hello Qiskitters!</h1>
 
-<p> This is the <strong> Qiskit Virtual Event Planning Guide</strong> This guide is meant as a companion for anyone looking to host a digital event, including resources, templates, and ideas. With that said, most things you’ll find here are <strong>suggestions</strong>. At the end of the day, you know your audience better than we do. We’re here to help you make it as successful as possible, whatever you chose to do. <br> <br>
+<p>This is the <strong> Qiskit Virtual Event Planning Guide</strong> This guide is meant as a companion for anyone looking to host a digital event, including resources, templates, and ideas. With that said, most things you’ll find here are <strong>suggestions</strong>. At the end of the day, you know your audience better than we do. We’re here to help you make it as successful as possible, whatever you chose to do.<br><br>
 If you only have a few minutes to read this document, skip to the TL;DR section at the end.</p>
 
-## Section 1: Overview
+<h2>Section 1: Overview</h2>
 
-<p> This guide provides relevant resources and guidance for your event. We have included IBM-specific ideas and guidance to help fill out your event and make it as successful as possible.<br> <br>
-The term “your event” is used on purpose. Although IBM is more than happy to sponsor or support, at the end of the day this event is owned by you and your group of collaborators. We are here to help and support you along the way. As a qiskit-themed event, there are a few rules that we’d like to see put into place. If your group is on board, we may be able to send swag, or even have IBM Researchers attend.<br> <br>
+<p>This guide provides relevant resources and guidance for your event. We have included IBM-specific ideas and guidance to help fill out your event and make it as successful as possible.<br><br>
+The term “your event” is used on purpose. Although IBM is more than happy to sponsor or support, at the end of the day this event is owned by you and your group of collaborators. We are here to help and support you along the way. As a qiskit-themed event, there are a few rules that we’d like to see put into place. If your group is on board, we may be able to send swag, or even have IBM Researchers attend.<br><br>
 One good principle to always follow – **the most successful events have a theme**. Gaming, chemistry, quantum 101, exploring new algorithms, and adapting classical approaches are all themes we’ve seen before. You can, and should, adapt one of those for your event, or create something entirely new.</p>
 
 </div>
 
-### Section 1-1: Intro to Virtual Event Opportunities
+<h3>Section 1-1: Intro to Virtual Event Opportunities</h3>
 
-There are a lot of opportunities to create, host, or participate in virtual events. Virtual events remove the physical-interaction from the activity, which can make them unique experiences with a slightly different approach to planning. With virtual events on the rise, we wanted to offer our resources and guide for how you may be able to optimize your own virtual event! 
+<p>There are a lot of opportunities to create, host, or participate in virtual events. Virtual events remove the physical-interaction from the activity, which can make them unique experiences with a slightly different approach to planning. With virtual events on the rise, we wanted to offer our resources and guide for how you may be able to optimize your own virtual event!</p>
 
-###### What are virtual events?
+<h5>What are virtual events?</h5>
 
-Virtual events are online events where people interact in a virtual environment online, rather than gathering in a physical location. It may sound limiting, but there are quite a few options for exciting virtual events that not only can reach a larger audience - but are more accessible overall! Virtual activities can also be added to a live event, as an additional experience for your attendees!
+<p>Virtual events are online events where people interact in a virtual environment online, rather than gathering in a physical location. It may sound limiting, but there are quite a few options for exciting virtual events that not only can reach a larger audience - but are more accessible overall! Virtual activities can also be added to a live event, as an additional experience for your attendees!</p>
 
-###### What are some virtual event options?
-<div markdown="1">
+<h5>What are some virtual event options?</h5>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -64,30 +64,28 @@ Virtual events are online events where people interact in a virtual environment 
 <hr size="15" noshade>
 </body>
 </body>
-</div>
 
-#### Active Event Examples 
+<h4>Active Event Examples</h4> 
 
-##### Virtual Presentations _(Livestream)_
+<h5>Virtual Presentations <em>(Livestream)</em></h5>
 
-Perhaps the simplest of the virtual options, live streaming is probably the most accessible and usable way you can create an event online. Think of this as a lecture, with 1 or 2 people taking and the audience listening. With various free streaming platforms (YouTube Live, Twitch, Mixer), you can host a live presentation or speaker to a viewing audience online. 
+<p>Perhaps the simplest of the virtual options, live streaming is probably the most accessible and usable way you can create an event online. Think of this as a lecture, with 1 or 2 people taking and the audience listening. With various free streaming platforms (YouTube Live, Twitch, Mixer), you can host a live presentation or speaker to a viewing audience online.<br><br>
+If you want to create a more interactive presenting experience, where the participants can contribute beyond live-chat, you can explore presentation options such as Webex, Google Video Hangouts, or other video chat options. These work best with <strong>large</strong> crowds (>30 participants).</p>
 
-If you want to create a more interactive presenting experience, where the participants can contribute beyond live-chat, you can explore presentation options such as Webex, Google Video Hangouts, or other video chat options. These work best with **large** crowds (>30 participants).
-<div markdown="1">
 <div align="center"> <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Presenting%20on%20Quantum%20with%20Whiteboard.jpg?raw=true" alt="presenter in front of white board"> </div>
-</div>
-##### Meetups
 
-The word “meetup” implies meeting up - but it doesn’t imply that you cannot do it in a virtual space. A meetup is a group connection where everyone is given an equal voice. Connecting via webcams has become more accessible than ever. You can catch up, have a viewing party, enjoy a happy hour, and whatever else you think of! Virtual hangouts can be exciting and even keep you connected with long-distance colleagues. These work best with **small - medium** crowds (3 - 20 participants).
+<h5>Meetups</h5>
 
-##### Reading Groups
+<p>The word “meetup” implies meeting up - but it doesn’t imply that you cannot do it in a virtual space. A meetup is a group connection where everyone is given an equal voice. Connecting via webcams has become more accessible than ever. You can catch up, have a viewing party, enjoy a happy hour, and whatever else you think of! Virtual hangouts can be exciting and even keep you connected with long-distance colleagues. These work best with <strong>small - medium</strong> crowds (3 - 20 participants).</p>
 
-Some Qiskitters get together over Slack or WebEx and host reading groups of different quantum research papers or chapters in the online qiskit textbook. This is typically followed by a Q&A with either the author, or an industry expert on the topic. These work best in an environment where everyone can share their thoughts and opinions openly. We recommend **small** groups of 3 - 10 participants. 
+<h5>Reading Groups</h5>
 
-##### Meet in a Game
+<p>Some Qiskitters get together over Slack or WebEx and host reading groups of different quantum research papers or chapters in the online qiskit textbook. This is typically followed by a Q&A with either the author, or an industry expert on the topic. These work best in an environment where everyone can share their thoughts and opinions openly. We recommend <strong>small</strong> groups of 3 - 10 participants.</p> 
 
-Between the portability of the Nintendo Switch, the huge boom of games available on PC, and every other console available, meeting up inside a game world is now much more reality than the days of Tron. Some qiskitters met up in Animal Crossing recently, and even created some in-game swag items. We recommend Minecraft, Animal Crossing, or anywhere else you can show off your creativity and build the community (and friendships!).
-<div markdown="1">
+<h5>Meet in a Game</h5>
+
+<p>Between the portability of the Nintendo Switch, the huge boom of games available on PC, and every other console available, meeting up inside a game world is now much more reality than the days of Tron. Some qiskitters met up in Animal Crossing recently, and even created some in-game swag items. We recommend Minecraft, Animal Crossing, or anywhere else you can show off your creativity and build the community (and friendships!).</p>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -125,17 +123,14 @@ Between the portability of the Nintendo Switch, the huge boom of games available
   </div>
 </div>
 </body>
-</div>
-##### Hackathons
-Hackathons can come in many forms, in many places, and the virtual space is no exception. Whether it’s an ongoing challenge, a problem-focused collaboration, or a live competition - hackathons can be hosted virtually through many different spaces. For in depth hackathon guidelines both inside and outside of the virtual space, you can download it [HERE](https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/University%20Hackathon%20Guide.pdf). 
 
-<div markdown="1">
+<h5>Hackathons</h5>
+
+<p>Hackathons can come in many forms, in many places, and the virtual space is no exception. Whether it’s an ongoing challenge, a problem-focused collaboration, or a live competition - hackathons can be hosted virtually through many different spaces. For in depth hackathon guidelines both inside and outside of the virtual space, you can download it <a href="https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/University%20Hackathon%20Guide.pdf">HERE</a>.</p> 
+
 <body> 
 <hr size="15" noshade>
 </body>
-</div>
-
-
 
 #### Passive Event Examples
 
