@@ -2,18 +2,10 @@ remote_theme: pmarsceill/just-the-docs
 
 markdown: kramdown
 
-baseurl: "/virtual-event-guide/"
-
-url: "https://justjosie.github.io/Virtual-Event-Guide/"
-
 search_enabled: false
 
 heading_anchors: true
 
 title: Qiskit Virtual Event Planning Guide
-
-aux_links:
-  "Skip to your section!":
-    - "//github.com/justjosie/virtual-event-guide/docs.md"
     
 color_scheme: nil
