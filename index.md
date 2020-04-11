@@ -1,9 +1,16 @@
 ---
+layout: default
+title: TEST 3
+nav_order: 2
+---
 
-## On this page
-{:.no_toc}
+# Configuration
+{: .no_toc }
 
-- TOC
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
 {:toc}
 
 ---
