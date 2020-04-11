@@ -1,3 +1,20 @@
+---
+layout: default
+title: Configuration
+nav_order: 1
+---
+
+# Configuration
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 <div markdown="1">
 
 <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true" alt="laptop with quantum and qiskit stickers">
