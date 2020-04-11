@@ -68,10 +68,8 @@ div.content {
   height: 100%;
 }
 </style>
+
 </head>
-
-
-
 
 <body>
 
@@ -92,11 +90,8 @@ div.content {
   
 </div>
 
-</body>
-
-<body>
-
 <div class="sidebar">
+  
   <a href="#HelloQiskitters">News</a>
   <a href="#Section1Overview">Hello Qiskitters!</a>
   <a href="#IntrotoVirtualEventOpportunities">Intro to Virtual Event Opportunities</a>
@@ -109,13 +104,12 @@ div.content {
   <a href="#HacakthonProjects">Section 4: Hackathon Projects</a>
   <a href="#TLDR">TL;DR</a>
   <a href="#MarketingAssets&Downloads">Marketing Assets & Downloads</a>
+
 </div>
 
-  <div class="content">
+<div class="content">
 
-<body>
 <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true" alt="laptop with quantum and qiskit stickers">
-</body>
 
 <h1 id="HelloQiskitters">Hello Qiskitters!</h1>
 
@@ -127,8 +121,6 @@ If you only have a few minutes to read this document, skip to the TL;DR section 
 <p>This guide provides relevant resources and guidance for your event. We have included IBM-specific ideas and guidance to help fill out your event and make it as successful as possible.<br><br>
 The term “your event” is used on purpose. Although IBM is more than happy to sponsor or support, at the end of the day this event is owned by you and your group of collaborators. We are here to help and support you along the way. As a qiskit-themed event, there are a few rules that we’d like to see put into place. If your group is on board, we may be able to send swag, or even have IBM Researchers attend.<br><br>
 One good principle to always follow – <strong>the most successful events have a theme</strong>. Gaming, chemistry, quantum 101, exploring new algorithms, and adapting classical approaches are all themes we’ve seen before. You can, and should, adapt one of those for your event, or create something entirely new.</p>
-
-</div>
 
 <h3 id="IntrotoVirtualEventOpportunities">Intro to Virtual Event Opportunities</h3>
 
