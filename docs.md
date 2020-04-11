@@ -1,29 +1,23 @@
-<div markdown="1">
-<body> 
+[Hello Qiskitters!](#HelloQiskitters)
 
-<a href="#HelloQiskitters">Hello Qiskitters!</a>
+[Section 1: Overview](#Section1Overview)
 
-<a href="#Section1Overview">Section 1: Overview</a>
+[Intro to Virtual Event Opportunities](#IntrotoVirtualEventOpportunities)
 
-<a href="#IntrotoVirtualEventOpportunities">Intro to Virtual Event Opportunities</a>
+[Active Virtual Event Examples](#ActiveEventExamples)
 
-<a href="#ActiveEventExamples">Active Virtual Event Examples</a>
+[Passive Virtual Event Examples](#PassiveEventExamples)
 
-<a href="#PassiveEventExamples">Passive Virtual Event Examples</a>
+[Virtual Event Planning 101](#VirtualEventPlanning101)
 
-<a href="#VirtualEventPlanning101">Virtual Event Planning 101</a>
+[Virtual Tools & Platforms](#VirtualTools&Platforms)
 
-<a href="#VirtualTools&Platforms">Virtual Tools & Platforms</a>
+[Recommended Tools](#RecommendedTools)
 
-<a href="#RecommendedTools">Recommended Tools</a>
+[Section 3: Becoming Quantum Ready](#BecomingQuantumReady)
 
-<a href="#BecomingQuantumReady">Section 3: Becoming Quantum Ready</a>
+[Section 4: Hackathon Projects](#HacakthonProjects)
 
-<a href="#HacakthonProjects">Section 4: Hackathon Projects</a>
+[TL;DR](#TLDR)
 
-<a href="#TLDR">This link</a>
-
-<a href="#MarketingAssets&Downloads">Marketing Assets & Downloads</a>
-
-</body>
-</div
+[Marketing Assets & Downloads](#MarketingAssets&Downloads)
