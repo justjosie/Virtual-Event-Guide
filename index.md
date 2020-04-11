@@ -116,7 +116,6 @@ If you want to create a more interactive presenting experience, where the partic
 <body>
 <hr size="15" noshade>
 </body>
-</body>
 
 <h5>Hackathons</h5>
 
@@ -142,13 +141,11 @@ If you want to create a more interactive presenting experience, where the partic
 
 <p>Exploring a new concept comes with many different steps or focus areas. Setting up a digital scavenger hunt is an engaging way to look at a large collection of items. You can assign different aspects with unique point values, and ask for pictures or confirmation of sorts. There are a few websites and apps that have been created specifically to host online scavenger hunts.</p>
 
-<div markdown="1">
 <body>
 <hr size="15" noshade>
 </body>
-</div>
 
-<h6>As always, if you are interested in hosting any type of virtual event, don’t hesitate to reach out to the Community Team! We’re here to help you create exciting and enjoyable experiences, so make sure and email us at xxxxxx!</h6>
+<p>As always, if you are interested in hosting any type of virtual event, don’t hesitate to reach out to the Community Team! We’re here to help you create exciting and enjoyable experiences, so make sure and email us at xxxxxx!</p>
 
 <h2>Section 2: Virtual Event Planning 101</h2>
 
@@ -158,7 +155,7 @@ There are many great tools and platforms available to help bridge that planning 
 
 <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Crowdcast%20virtual%20event%20collaboration%20with%20phone%20tablet%20laptop%20on%20desk.jpg?raw=true" alt="webcast collaboration with phone tablet and laptop on desk">
 
-<p>As always, virtual or not, the Qiskit Community Team is also available as a resource in creating, planning, and executing an event – so don’t hesitate to email if you have any general or more specific questions!<br><br>
+<p>Virtual or not, the Qiskit Community Team is also available as a resource in creating, planning, and executing an event – so don’t hesitate to email if you have any general or more specific questions!<br><br>
 Regardless of how you are managing the event, you will want to make sure and have the following predefined and finalized PRIOR to any public-facing communications (and most certainly prior to the event start date):</p>
 
 <h4>Clearly Identified Team Roles</h4>
@@ -204,35 +201,31 @@ Regardless of how you are managing the event, you will want to make sure and hav
 <li><strong>IMPORTANT!</strong> Whichever platform(s) you end up using – not only should you make sure your team and you take some time to be familiar with the system (we recommend an internal dry-run within the team – just to work out any planning kinks). You should also be making sure that every participant knows where they need to be and when – so make sure and make that explicit and clear, and share with participants at least several days prior to the event start day so they can also take their own opportunity to become familiar with it as well.</li>
 </ul>
 
-# Recommended Tools
-## from the Qiskit Community Team
-![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/desk%20filled%20with%20laptops%20and%20electronics.jpg?raw=true)
+<h1>Recommended Tools</h1>
+<h2>from the Qiskit Community Team</h2>
 
-As mentioned above, the Qiskit team here at IBM has been working hard to identify what resources and platforms we think would be the optimum fits for Qiskit and Quantum Hackathons – and based on that, we have some recommended tools listed below. This is by no means a restrictive list, and every team is highly encouraged to see what tools are available and choose the one that fits best for whatever specific event is planned.
+<img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/desk%20filled%20with%20laptops%20and%20electronics.jpg?raw=true" alt="ltable filled with electronic devices and laptops">
 
- 
-When UC London put together their (in-person) hackathon, they created one document with details like location, schedule, and the code of conduct all together. That’s a really effective way to communicate the important information all at once. [Look it over, and feel free to use it as a template](https://drive.google.com/open?id=1QoORpbxEVAmN_sIpzxgHwno0vmy4Iih9).
- 
-With that introduction, and no further ado, here is the “short list” of the options we recommend (in order of how highly we recommend them!
+<p>As mentioned above, the Qiskit team here at IBM has been working hard to identify what resources and platforms we think would be the optimum fits for Qiskit and Quantum Hackathons – and based on that, we have some recommended tools listed below. This is by no means a restrictive list, and every team is highly encouraged to see what tools are available and choose the one that fits best for whatever specific event is planned.<br><br>
+When UC London put together their (in-person) hackathon, they created one document with details like location, schedule, and the code of conduct all together. That’s a really effective way to communicate the important information all at once. <a href="https://drive.google.com/open?id=1QoORpbxEVAmN_sIpzxgHwno0vmy4Iih9">Look it over, and feel free to use it as a template</a>.<br><br>
+With that introduction, and no further ado, here is the “short list” of the options we recommend (in order of how highly we recommend them!</p>
 
-<div markdown="1">
 <body>
 <hr size="15" noshade>
 </body>
-</div>
 
-#### For Live-Stream Style Presentations/Engagements
-* YouTube Live
-* Twitch
-* Webex
+<h4>For Live-Stream Style Presentations/Engagements</h4>
+<ul> 
+<li>YouTube Live</li>
+<li>Twitch</li>
+<li>Webex</li> 
+</ul>
  
-_General capabilities: Have the ability to live-stream (or host pre-recorded) content or presentations to an audience with minmal-to-no gatekeeping. Collaboration and communications restricted to text-based chat._
- 
-NOTE: Due to concerns around privacy, hacking, FBI warnings, and “zoombombing” we do not suggest using Zoom as a tool for your event.
+<p><em>General capabilities: Have the ability to live-stream (or host pre-recorded) content or presentations to an audience with minmal-to-no gatekeeping. Collaboration and communications restricted to text-based chat.</em><br><br>
+NOTE: Due to concerns around privacy, hacking, FBI warnings, and “zoombombing” we do not suggest using Zoom as a tool for your event.</p>
 
-#### For Collaboration/Open Forum Style Presentations/Engagements
+<h4>For Collaboration Style Presentations</h4>
 
-<div markdown="1">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -244,14 +237,12 @@ NOTE: Due to concerns around privacy, hacking, FBI warnings, and “zoombombing�
   box-sizing: border-box;
 }
 
-
 .column {
   float: left;
   width: 50%;
   padding: 0px;
   height: 300px; 
 }
-
 
 .row: {
   content: "";
@@ -271,33 +262,33 @@ NOTE: Due to concerns around privacy, hacking, FBI warnings, and “zoombombing�
     <li>Crowdcast</li>
     <li>Webex</li> 
    </ul>
- <em> General capabilities: Have the ability to host participants and attendees (gatekeeping optional) to host a content session/presentation that includes the capacity for participants to converse face-to-face with the presenter, or make contributions of their own.</em> </p>
+<em> General capabilities: Have the ability to host participants and attendees (gatekeeping optional) to host a content session/presentation that includes the capacity for participants to converse face-to-face with the presenter, or make contributions of their own.</em></p>
   </div>
 </div>
 </body>
-</div>
 
-#### For Team Breakouts, Collaboration, and Live Event Communications (during the event)
-* Slack (ask the Qiskit Community Team for your own channel in the @Qiskit Slack!)
-* Discord
-* WhatsApp
+<h4>For Team Breakouts, Collaboration, and Live Event Communications</h4>
+<ul> 
+<li>Slack <em>(ask the Qiskit Community Team for your own channel in the @Qiskit Slack!)</em></li>
+<li>Discord</li>
+<li>WhatsApp</li> 
+</ul>
+
+<em><p>General capabilities: To host communications between various groups, where particpants can collaborate together privately from other teams, mentors and admins can support questions, and hack-work can be completed without the disruption of hosting a live stream or series of video chats or phone calls to stay connected. Essentially, where all those productive and collaborative conversations are taking place.</em></p>
+
+<h4>For Hackathon Logistics/Event Platform</h4>
+<ul> 
+<li>DevPost</li>
+<li>HackerEarth</li>
+</ul>
  
-_General capabilities: To host communications between various groups, where particpants can collaborate together privately from other teams, mentors and admins can support questions, and hack-work can be completed without the disruption of hosting a live stream or series of video chats or phone calls to stay connected. Essentially, where all those productive and collaborative conversations are taking place._
+<em><p>General capabilities: Host the hackathon event in a central location, support team formation, live announcements and communications – in addition to (optional) registration, team formation, and project submission processes for your hackathon.</em></p>
 
-#### For Hackathon Logistics/Event Platform
-* DevPost
-* HackerEarth
- 
-_General capabilities: Host the hackathon event in a central location, support team formation, live announcements and communications – in addition to (optional) registration, team formation, and project submission processes for your hackathon._
-
-<div markdown="1">
 <body>
 <div class="img-container">
  <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/think%20outside%20the%20box.jpg?raw=true" alt="think outside the box"> 
  </div>
  </body>
-</div>
-
 
 ## Section 3: Becoming Quantum Ready 
 One of the most important aspects of any event is making sure your partcipants are prepared for what they’re signing up for! Offering a few pre-event resources goes a long way to ensuring success. Below are a few.
