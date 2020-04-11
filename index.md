@@ -290,14 +290,12 @@ NOTE: Due to concerns around privacy, hacking, FBI warnings, and “zoombombing�
  </div>
  </body>
 
-## Section 3: Becoming Quantum Ready 
-One of the most important aspects of any event is making sure your partcipants are prepared for what they’re signing up for! Offering a few pre-event resources goes a long way to ensuring success. Below are a few.
- 
-The [IBM Quantum Experience](http://quantum-computing.ibm.com) has opportunities to start playing around with the circuit composer, and we recommend signing up for it! Have a meetup with friends or colleagues, and explore what you might be able to do together. If you are planning on doing a hackathon, participants need to have an IBMid created in order to participate, so this is a good preceding activity.
- 
-Maybe the most important workshop to hold is a qiskit 101 tutorial. We [know installing and running qiskit for the first time](https://www.youtube.com/watch?v=M4EkW4VwhcI) may be a little confusing. Having someone on site to go over the steps and then walk through a few of the [qiskit tutorials hosted on our public GitHub](https://github.com/Qiskit/qiskit-tutorials) is a great introduction to qiskit, and can be a very educational live stream or presentation!
+<h2>Section 3: Becoming Quantum Ready</h2>
 
-<div markdown="1">
+<p>One of the most important aspects of any event is making sure your partcipants are prepared for what they’re signing up for! Offering a few pre-event resources goes a long way to ensuring success. Below are a few.<br><br> 
+The <a href="http://quantum-computing.ibm.com">IBM Quantum Experience</a> has opportunities to start playing around with the circuit composer, and we recommend signing up for it! Have a meetup with friends or colleagues, and explore what you might be able to do together. If you are planning on doing a hackathon, participants need to have an IBMid created in order to participate, so this is a good preceding activity.<br><br>
+Maybe the most important workshop to hold is a qiskit 101 tutorial. We <a href="https://www.youtube.com/watch?v=M4EkW4VwhcI">know installing and running Qiskit for the first time</a> may be a little confusing. Having someone on site to go over the steps and then walk through a few of the <a href="https://github.com/Qiskit/qiskit-tutorials">qiskit tutorials hosted on our public GitHub</a> is a great introduction to Qiskit, and can be a very educational live stream or presentation!</p>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -308,15 +306,13 @@ Maybe the most important workshop to hold is a qiskit 101 tutorial. We [know ins
 * {
   box-sizing: border-box;
 }
-
-
+ 
 .column {
   float: left;
   width: 50%;
   padding: 0px;
   height: 300px; 
 }
-
 
 .row: {
   content: "";
@@ -335,18 +331,17 @@ Maybe the most important workshop to hold is a qiskit 101 tutorial. We [know ins
   </div>
 </div>
 </body>
-</div>
 
-## Section 4: Hackathon Projects: Past Examples
-It may be hard for some participants to know where to start on collaborative events. Challenges especially like a hackathon or joint project need a spark of creativity or curiosity to really get going. Below are the project collections from two previous hackathons, one held at MIT and the other in South Africa. 
+<h2>Section 4: Hackathon Projects: Past Examples</h2>
+<p>It may be hard for some participants to know where to start on collaborative events. Challenges especially like a hackathon or joint project need a spark of creativity or curiosity to really get going. Below are the project collections from two previous hackathons, one held at MIT and the other in South Africa.<br><br> 
+Use these collections to see the wide range of projects that you can use as jumping-off points, or as inspiration for your own new original topic.</p> 
+<strong>
+<ul> 
+<li><a href="https://github.com/iquhack/2020">MIT Hackathon</a></li>
+<li><a href="https://github.com/qiskit-community/qiskit-camp-africa-19/issues">South Africa Hackathon</a></li></strong> 
 
-Use these collections to see the wide range of projects that you can use as jumping-off points, or as inspiration for your own new original topic. 
+<img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Quantum%20Project%20Demo%20on%20Laptop.jpg?raw=true" alt="lquantum project demo on laptop screen">
 
-[MIT Hackathon](https://github.com/iquhack/2020)
-[South Africa Hackathon](https://github.com/qiskit-community/qiskit-camp-africa-19/issues)
-
-
-![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Quantum%20Project%20Demo%20on%20Laptop.jpg?raw=true)
 
 ## TL;DR
 * The Qiskit Community team is always available to answer any questions over Slack (link) or email at hello@qiskit.camp
