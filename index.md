@@ -318,15 +318,75 @@ img {
 </div>
 
 
-### What are some virtual event options? 
-One of the things we’ve discovered is that hosting pre-hackathon or non-hackathon events is extremely useful for everyone across the board. 
+## Section 3: Becoming Quantum Ready 
+One of the most important aspects of any event is making sure your partcipants are prepared for what they’re signing up for! Offering a few pre-event resources goes a long way to ensuring success. Below are a few.
  
 The [IBM Quantum Experience](http://quantum-computing.ibm.com) has opportunities to start playing around with the circuit composer, and we recommend signing up for it! Have a meetup with friends or colleagues, and explore what you might be able to do together. If you are planning on doing a hackathon, participants need to have an IBMid created in order to participate, so this is a good preceding activity.
  
 Maybe the most important workshop to hold is a qiskit 101 tutorial. We [know installing and running qiskit for the first time](https://www.youtube.com/watch?v=M4EkW4VwhcI) may be a little confusing. Having someone on site to go over the steps and then walk through a few of the [qiskit tutorials hosted on our public GitHub](https://github.com/Qiskit/qiskit-tutorials) is a great introduction to qiskit, and can be a very educational live stream or presentation!
- 
-Our [Coding with Qiskit YouTube series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY), and our [open source qiskit textbook](https://qiskit.org/textbook/about.html) are both popular resources that people have used to help get people up to speed or familiar with Qiskit and Quantum. There are even live Q&As that are hosted by Quantum teams, that can be great opportunities for virtual viewing parties!
 
+<div markdown="1">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+ img{
+      max-width: 100%;
+      max-height: auto;
+      }
+* {
+  box-sizing: border-box;
+}
+
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 0px;
+  height: 300px; 
+}
+
+
+.row: {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="column" id="column1" style="background-color:transparent;">
+      <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/youtube%20open%20on%20laptop.jpg?raw=true" alt="youtube preview on mac laptop">
+  </div>
+  <div class="column" id="column2" style="background-color:transparent;"> 
+   <p> Our <a href="https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY">Coding with Qiskit Youtube Series</a> and our <a href="https://qiskit.org/textbook/about.html">open source Qiskit textbook</a> re both popular resources that people have used to help get people up to speed or familiar with Qiskit and Quantum. There are even live Q&As that are hosted by Quantum teams, that can be great opportunities for virtual viewing parties!</p>
+  </div>
+</div>
+</body>
+</div>
+
+## Section 4: Hackathon Projects: Past Examples
+It may be hard for some participants to know where to start on collaborative events. Challenges especially like a hackathon or joint project need a spark of creativity or curiosity to really get going. Below are the project collections from two previous hackathons, one held at MIT and the other in South Africa. 
+
+Use these collections to see the wide range of projects that you can use as jumping-off points, or as inspiration for your own new original topic. 
+
+[MIT Hackathon](https://github.com/iquhack/2020)
+[South Africa Hackathon](https://github.com/qiskit-community/qiskit-camp-africa-19/issues)
+
+
+![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Quantum%20Project%20Demo%20on%20Laptop.jpg?raw=true)
+
+## TL;DR
+* The Qiskit Community team is always available to answer any questions over Slack (link) or email at hello@qiskit.camp
+There are many different kinds of virtual events, some of which are active and some of which are passive. Depending on what you want to do - examples and options of both types of events are available!
+
+* When transitioning from Live Event planning to Virtual Event planning - the basic checklists and principles remain the same. Remember to increase your communication, and plan your promotions to reach your potential participants (wherever they may be). 
+
+* There are more options than you think for tools and platforms that are available to support virtual events. While the IBM Qiskit Community Team has compiled a list of recommendations, they are just that. Whatever tool you end up using, you will want to make sure to explore and test-run the tools functionality before the event itself goes live. 
+
+* In preparation for a Quantum Event - are you sure your participants are Quantum Ready? Engaging with event participants prior to the event, with online resources already available and ready to use, you can make sure that everyone participating is on the Quantum Level and has a more prepared and enjoyable experience. 
+
+# Marketing Assets & Downloads
 
 [Download the Qiskit Logos Assets Here.](https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Qiskit%20Logos.zip) 
 
