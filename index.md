@@ -145,14 +145,11 @@ Between the portability of the Nintendo Switch, the huge boom of games available
 Hackathons can come in many forms, in many places, and the virtual space is no exception. Whether it’s an ongoing challenge, a problem-focused collaboration, or a live competition - hackathons can be hosted virtually through many different spaces. For in depth hackathon guidelines both inside and outside of the virtual space, you can download it [HERE](https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/University%20Hackathon%20Guide.pdf). 
 
 <div markdown="1">
-<head>
-<style>
 <body> 
 <hr size="5px" width="72%" align="center" color="black">
 </body>
-</style>
-</head>
 </div>
+
 
 #### Passive Event Examples
 
@@ -171,16 +168,13 @@ No, this isn’t another Animal Crossing reference. You can organize a group to 
 Exploring a new concept comes with many different steps or focus areas. Setting up a digital scavenger hunt is an engaging way to look at a large collection of items. You can assign different aspects with unique point values, and ask for pictures or confirmation of sorts. There are a few websites and apps that have been created specifically to host online scavenger hunts.
 
 <div markdown="1">
-<head>
-<style>
 <body> 
 <hr size="5px" width="72%" align="center" color="black">
 </body>
-</style>
-</head>
 </div>
 
 As always, if you are interested in hosting any type of virtual event, don’t hesitate to reach out to the Community Team! We’re here to help you create exciting and enjoyable experiences, so make sure and email us at xxxxxx!
+
 
 
 ## Section 2: Virtual Event Planning 101
@@ -197,82 +191,43 @@ As always, virtual or not, the Qiskit Community Team is also available as a reso
  
 Regardless of how you are managing the event, you will want to make sure and have the following predefined and finalized PRIOR to any public-facing communications (and most certainly prior to the event start date):
 
-### Clearly Identified Team Roles
+#### Clearly Identified Team Roles
 * Each component within an event should have a clear lead, and all team members should be aware of “Who To” go to for any contributions or questions
 * Examples of team roles: Moderator, Emcee, Coach, Mentor, Catering, Room set up, Clean up
 * While some team roles may be supported by multiple people – the general best practice is to make sure and designate a clear lead individual for each area
 
-### Event Schedule/Agenda
+#### Event Schedule/Agenda
 * Make sure and clearly identify daily start and end times (and don’t forget to include the time zone!)
 * If there are multiple platforms or resources being used, make sure the agenda reflects when you may be alternating from one to the other – everyone should know where they need to be and at what the time
 * If there are any event-specific benchmarks throughout the event, make sure they are clearly communicated in your agenda for all participants and team-members
 
-### Registration
+#### Registration
 _(Optional for less formal events or open-ended invitations)_
 
-### Code of Conduct 
+#### Code of Conduct 
 _(encouraged for any/all events)_
-
 Here’s [IBM Quantum’s Code of Conduct](https://drive.google.com/open?id=15mnpIQ9n4m3FUCSjpuH_PbnG7HltHQV8) that you can use for your event.
 
-### Communication/Promotion Plan
+#### Communication/Promotion Plan
 * Promotion and communications are critical when it comes to making sure people are aware your event is going on, and how they may be able to connect with it or join. Make sure you give yourself several weeks for pre-event promotion!
 * Identify what channels you are using (Examples: Slack, Twitter, Bulletin Board, Forum Announcement) to do your promotions and outreach
 * Identify the dates or general time frames when you would like to announce the event, if/when any pre-work will be recommended or required for participation, or any important updates or engagements you may have with participants (and observers from home) leading up to the event.
 
-### Communication Method
+#### Communication Method
 * For the event itself, you want to make sure and have a system in place to communicate with all participants for any important announcements, engagements, benchmark reminders, and what have you.
 * Generally speaking, you will want to have one central location for all communications during the event. The Qiskit Community Team primarily uses Slack for these types of communications, but you can also explore other options that may be a better fit for your group. Whether it’s a forum, Discord, or a good old-fashioned mass-group chat on Google Hangouts or Facebook Chat – you want to make sure you have all your participants' eyes (and ears) in one place.
 * Email is NOT recommended for these communications, and can often result in unwieldy delays or logistical confusion (especially in the face of ever-vigilant spam and quarantine filters).
 
-### Virtual Tools/Platforms
+#### Virtual Tools/Platforms
 * Instead of finding your “venue” and reserving your “space” - you want to find the platform that works for you, and make sure it’s all set up to your desired “floorplan” so that your virtual event flows just as smoothly as it would in person.
 * Depending on your event, you may want to use different tools or combine different platforms in creative ways – which is highly encouraged! There are many many options available to host a virtual event within, and while some may meet your specific needs without meeting others, there is no rule that says you can’t use more than one!
 * **IMPORTANT!** Whichever platform(s) you end up using – not only should you make sure your team and you take some time to be familiar with the system (we recommend an internal dry-run within the team – just to work out any planning kinks). You should also be making sure that every participant knows where they need to be and when – so make sure and make that explicit and clear, and share with participants at least several days prior to the event start day so they can also take their own opportunity to become familiar with it as well.
 
-## Recommended Tools
-###### from the Qiskit Community Team
+# Recommended Tools
+## from the Qiskit Community Team
+![](https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/desk%20filled%20with%20laptops%20and%20electronics.jpg?raw=true)
 
-<div markdown="1">
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
- img{
-      max-width: 100%;
-      max-height: auto;
-      }
-* {
-  box-sizing: border-box;
-}
-
-
-.column {
-  float: left;
-  width: 50%;
-  padding: 0px;
-  height: 300px; 
-}
-
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-<body>
-<div class="container">
-  <div class="column" id="column1" style="background-color:transparent;">
-    <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/desk%20filled%20with%20laptops%20and%20electronics.jpg?raw=true" alt="table with electronics and notepads">
-  </div>
-  <div class="column" id="column2" style="background-color:transparent;"> 
-   <p> As mentioned above, the Qiskit team here at IBM has been working hard to identify what resources and platforms we think would be the optimum fits for Qiskit and Quantum Hackathons – and based on that, we have some recommended tools listed below. This is by no means a restrictive list, and every team is highly encouraged to see what tools are available and choose the one that fits best for whatever specific event is planned.</p>
-  </div>
-</div>
-</body>
-</div>
-
+As mentioned above, the Qiskit team here at IBM has been working hard to identify what resources and platforms we think would be the optimum fits for Qiskit and Quantum Hackathons – and based on that, we have some recommended tools listed below. This is by no means a restrictive list, and every team is highly encouraged to see what tools are available and choose the one that fits best for whatever specific event is planned.
 
 
 ### What are some virtual event options? 
