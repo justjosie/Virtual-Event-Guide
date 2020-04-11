@@ -1,0 +1,11 @@
+# _data/navigation.yml
+primary:
+  - text: Hello Qiskitters!
+    href: "#HelloQiskitters"
+  - text: Section 1: Overview
+    href: "#Section1Overview"
+  - text: Intro to Virtual Event Opportunities
+    href: "#IntrotoVirtualEventOpportunities"
+ 
+  - text: Section title
+    links: <links>
