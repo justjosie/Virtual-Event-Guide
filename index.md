@@ -1,11 +1,8 @@
 <head>
 <html lang="en">
-<head>
-<title>Qiskit Virtual Event Planning Guide</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-* {box-sizing: border-box;}
 
 body { 
   margin: 0;
@@ -34,15 +31,8 @@ body {
   font-weight: bold;
 }
 
-.header a.active {
-  background-color: black;
-  color: white;
-}
-
 .header-right {
   float: right;
-}
-
 }
 
 .navbar {
@@ -53,7 +43,7 @@ body {
 .navbar a {
   float: left;
   display: block;
-  color: white;
+  color: #ffffff;
   text-align: center;
   padding: 10px 10px;
   text-decoration: none;
@@ -64,40 +54,6 @@ body {
   float: right;
 }
   
-</style>
-</head>
-<body>
-
-<div class="header">
-  <a href="#default" class="logo">Qiskit Virtual Event Planning Guide</a>
-  <div class="header-right">
-    <a class="active" href="#HelloQiskitters">Home</a>
-    <a href="#TLDR">TL;DR</a>
-    <a href="#MarketingAssets&Downloads">Downloads</a>
-    <a href="#TLDR">Contact Us</a>
-  </div>
-  
-  <div class="navbar">
-  <a>Plan your own virtual event today with support from the Qiskit Community Team!</a>
-</div>
-</div>
-
-<div style="padding-left:20px">
-  
-</div>
-</body>
-
-
-
-
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-body {
-  margin: 0;
-  font-family: "Lato", sans-serif;
-}
-
 .sidebar {
   margin: 0;
   padding: 0;
@@ -130,9 +86,39 @@ div.content {
   padding: 1px 16px;
   height: 100%;
 }
-
 </style>
 </head>
+
+
+
+
+<body>
+
+<div class="header">
+  <a href="#default" class="logo">Qiskit Virtual Event Planning Guide</a>
+  
+  <div class="header-right">
+    <a class="active" href="#HelloQiskitters">Home</a>
+    <a href="#TLDR">TL;DR</a>
+    <a href="#MarketingAssets&Downloads">Downloads</a>
+    <a href="#TLDR">Contact Us</a>
+  
+  </div>
+  
+  <div class="navbar">
+  
+  <a>Plan your own virtual event today with support from the Qiskit Community Team!</a>
+  
+</div>
+
+</div>
+
+<div style="padding-left:20px">
+  
+</div>
+
+</body>
+
 <body>
 
 <div class="sidebar">
@@ -151,8 +137,6 @@ div.content {
 </div>
 
   <div class="content">
-
-<div markdown="1">
 
 <body>
 <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true" alt="laptop with quantum and qiskit stickers">
