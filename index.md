@@ -1,14 +1,5 @@
-
-
 <div markdown="1">
-<head>
-<style>
- img{
-      max-width: 1165px;
-      max-height: auto;
-      }
-</style>
-<head>
+
 <body>
 <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/qiskit%20laptop%20with%20stickers.jpg?raw=true" alt="laptop with quantum and qiskit stickers">
 </body>
