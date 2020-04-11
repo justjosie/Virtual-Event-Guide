@@ -254,7 +254,7 @@ NOTE: Due to concerns around privacy, hacking, FBI warnings, and â€œzoombombingâ
 <body>
 <div class="container">
   <div class="column" id="column1" style="background-color:transparent;">
-      <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/working%20on%20laptop%20with%20webex%20on%20cell%20phone.jpg?raw=true" alt="working on laptop with video conference on cell phone">
+      <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/working%20on%20laptop%20with%20webex%20on%20cell%20phone.jpg?raw=true" alt="working on laptop with video conference on cell phone" width="238" height="234">
   </div>
   <div class="column" id="column2" style="background-color:transparent;"> 
    <p> 
@@ -269,12 +269,13 @@ NOTE: Due to concerns around privacy, hacking, FBI warnings, and â€œzoombombingâ
 
 <h4>For Team Breakouts, Collaboration, and Live Event Communications</h4>
 <ul> 
-<li>Slack <em>(ask the Qiskit Community Team for your own channel in the @Qiskit Slack!)</em></li>
+<li>Slack <em>(ask the Qiskit Community Team for your own channel in the @Qiskit Slack!)</em> </li>
 <li>Discord</li>
 <li>WhatsApp</li> 
 </ul>
 
-<em><p>General capabilities: To host communications between various groups, where particpants can collaborate together privately from other teams, mentors and admins can support questions, and hack-work can be completed without the disruption of hosting a live stream or series of video chats or phone calls to stay connected. Essentially, where all those productive and collaborative conversations are taking place.</em></p>
+<em><p>General capabilities: To host communications between various groups, where particpants can collaborate together privately from other teams, mentors and admins can support questions, and hack-work can be completed without the disruption of hosting a live stream or series of video chats or phone calls to stay connected. Essentially, where all those productive and collaborative conversations are taking place.</p> 
+</em>
 
 <h4>For Hackathon Logistics/Event Platform</h4>
 <ul> 
@@ -282,7 +283,8 @@ NOTE: Due to concerns around privacy, hacking, FBI warnings, and â€œzoombombingâ
 <li>HackerEarth</li>
 </ul>
  
-<em><p>General capabilities: Host the hackathon event in a central location, support team formation, live announcements and communications â€“ in addition to (optional) registration, team formation, and project submission processes for your hackathon.</em></p>
+<em><p>General capabilities: Host the hackathon event in a central location, support team formation, live announcements and communications â€“ in addition to (optional) registration, team formation, and project submission processes for your hackathon.</p> 
+</em>
 
 <body>
 <div class="img-container">
@@ -338,27 +340,26 @@ Use these collections to see the wide range of projects that you can use as jump
 <strong>
 <ul> 
 <li><a href="https://github.com/iquhack/2020">MIT Hackathon</a></li>
-<li><a href="https://github.com/qiskit-community/qiskit-camp-africa-19/issues">South Africa Hackathon</a></li></strong> 
+<li><a href="https://github.com/qiskit-community/qiskit-camp-africa-19/issues">South Africa Hackathon</a> </li> 
+</strong> 
 
 <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/Quantum%20Project%20Demo%20on%20Laptop.jpg?raw=true" alt="lquantum project demo on laptop screen">
 
 
-## TL;DR
-* The Qiskit Community team is always available to answer any questions over Slack (link) or email at hello@qiskit.camp
-There are many different kinds of virtual events, some of which are active and some of which are passive. Depending on what you want to do - examples and options of both types of events are available!
+<h2>TL;DR</h2>
+<ul> 
+<li>The Qiskit Community team is always available to answer any questions over Slack (link) or email at hello@qiskit.camp
+There are many different kinds of virtual events, some of which are active and some of which are passive. Depending on what you want to do - examples and options of both types of events are available!</li> <br> <br>
+<li>When transitioning from Live Event planning to Virtual Event planning - the basic checklists and principles remain the same. Remember to increase your communication, and plan your promotions to reach your potential participants (wherever they may be).</li> <br> <br>
+<li>There are more options than you think for tools and platforms that are available to support virtual events. While the IBM Qiskit Community Team has compiled a list of recommendations, they are just that. Whatever tool you end up using, you will want to make sure to explore and test-run the tools functionality before the event itself goes live.</li> <br> <br>
+<li>In preparation for a Quantum Event - are you sure your participants are Quantum Ready? Engaging with event participants prior to the event, with online resources already available and ready to use, you can make sure that everyone participating is on the Quantum Level and has a more prepared and enjoyable experience.</li> <br> <br>
+</ul> 
 
-* When transitioning from Live Event planning to Virtual Event planning - the basic checklists and principles remain the same. Remember to increase your communication, and plan your promotions to reach your potential participants (wherever they may be). 
+<h1>Marketing Assets & Downloads</h1>
 
-* There are more options than you think for tools and platforms that are available to support virtual events. While the IBM Qiskit Community Team has compiled a list of recommendations, they are just that. Whatever tool you end up using, you will want to make sure to explore and test-run the tools functionality before the event itself goes live. 
+<strong><a href="https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Qiskit%20Logos.zip">Download the Qiskit Logos Assets Here!</a>
 
-* In preparation for a Quantum Event - are you sure your participants are Quantum Ready? Engaging with event participants prior to the event, with online resources already available and ready to use, you can make sure that everyone participating is on the Quantum Level and has a more prepared and enjoyable experience. 
+<a href="https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Qiskit%20Community%20Photos.zip">Download Qiskit Community Photos Here!</a>
 
-# Marketing Assets & Downloads
-
-[Download the Qiskit Logos Assets Here.](https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Qiskit%20Logos.zip) 
-
-[Download Qiskit Community Photos Here.](https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Qiskit%20Community%20Photos.zip)
-
-[Download the Virtual Event Powerpoint Template Here.](https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Digital%20Events%20PowerPoint%20Template.pptx)
-
-
+<a href="https://github.com/justjosie/Virtual-Event-Guide/raw/master/_downloads/Digital%20Events%20PowerPoint%20Template.pptx">Download the Virtual Event Powerpoint Template Here!</a>
+</strong>
