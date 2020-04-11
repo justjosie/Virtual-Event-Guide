@@ -276,14 +276,46 @@ NOTE: Due to concerns around privacy, hacking, FBI warnings, and “zoombombing�
     <li>Crowdcast</li>
     <li>Webex</li> 
    </ul>
- <i> General capabilities: Have the ability to host participants and attendees (gatekeeping optional) to host a content session/presentation that includes the capacity for participants to converse face-to-face with the presenter, or make contributions of their own.</i> </p>
+ <em> General capabilities: Have the ability to host participants and attendees (gatekeeping optional) to host a content session/presentation that includes the capacity for participants to converse face-to-face with the presenter, or make contributions of their own.</em> </p>
   </div>
 </div>
 </body>
 </div>
 
+#### For Team Breakouts, Collaboration, and Live Event Communications (during the event)
+* Slack (ask the Qiskit Community Team for your own channel in the @Qiskit Slack!)
+* Discord
+* WhatsApp
+ 
+_General capabilities: To host communications between various groups, where particpants can collaborate together privately from other teams, mentors and admins can support questions, and hack-work can be completed without the disruption of hosting a live stream or series of video chats or phone calls to stay connected. Essentially, where all those productive and collaborative conversations are taking place._
 
+#### For Hackathon Logistics/Event Platform
+* DevPost
+* HackerEarth
+ 
+_General capabilities: Host the hackathon event in a central location, support team formation, live announcements and communications – in addition to (optional) registration, team formation, and project submission processes for your hackathon._
 
+<div markdown="1">
+<head>
+<style>
+
+img {
+  width: 30%;
+}
+
+.img-container {
+    Text align: center;
+}
+
+</style>
+ 
+</head>
+<body>
+<div class="img-container">
+ <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/think%20outside%20the%20box.jpg?raw=true" alt="think outside the box"> 
+ </div>
+ </body>
+</div>
 
 
 ### What are some virtual event options? 
