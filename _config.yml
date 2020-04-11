@@ -6,4 +6,4 @@ color_scheme: nil
 
 layout: default
 title: Qiskit Virtual Event Planning Guide
-nav_order: 5
+sidebar: "_docs/navigation_structure.md"
