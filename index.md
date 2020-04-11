@@ -287,11 +287,19 @@ NOTE: Due to concerns around privacy, hacking, FBI warnings, and “zoombombing�
 <em><p>General capabilities: Host the hackathon event in a central location, support team formation, live announcements and communications – in addition to (optional) registration, team formation, and project submission processes for your hackathon.</p> 
 </em>
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
 <body>
-<div class="img-container">
- <img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/think%20outside%20the%20box.jpg?raw=true" alt="think outside the box" width="456" height="692"> 
- </div>
- </body>
+<img src="https://github.com/justjosie/Virtual-Event-Guide/blob/master/_downloads/Photos/think%20outside%20the%20box.jpg?raw=true" alt="think outside the box" width="456" height="692">
+</body>
 
 <h2>Section 3: Becoming Quantum Ready</h2>
 
@@ -335,7 +343,7 @@ Maybe the most important workshop to hold is a qiskit 101 tutorial. We <a href="
 </div>
 </body>
 
-<h2>Section 4: Hackathon Projects: Past Examples</h2>
+<h2>Section 4: Hackathon Projects</h2>
 <p>It may be hard for some participants to know where to start on collaborative events. Challenges especially like a hackathon or joint project need a spark of creativity or curiosity to really get going. Below are the project collections from two previous hackathons, one held at MIT and the other in South Africa.<br><br> 
 Use these collections to see the wide range of projects that you can use as jumping-off points, or as inspiration for your own new original topic.</p> 
 <strong>
