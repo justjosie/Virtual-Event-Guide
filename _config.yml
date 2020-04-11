@@ -1,4 +1,3 @@
-remote_theme: pmarsceill/just-the-docs
-
+theme: jekyll-theme-prologue
 title: Qiskit Virtual Event Planning Guide
 
